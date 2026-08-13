@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "description": "If you find this work helpful for your research, please kindly consider citing our papers:",
+      "items": [],
+      "title": ":books: Citation"
+    },
+    {
+      "description": "A 3D/4D world model is an internal representation that allows an agent to imagine, forecast, and interact with its environment in the 3D space.\nTogether, these models provide the foundation for simulation, planning, and embodied intelligence in complex environments.",
+      "items": [],
+      "title": "What Are World Models in 3D and 4D?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Workshops"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":one: Data Engines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":two: Action Interpreters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":three: Neural Simulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":four: Scene Reconstructors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":one: Scene Representors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":two: Occupancy Forecasters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":three: Autoregressive Simulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":one: Data Engines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":two: Action Forecasters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":three: Autoregressive Simulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":one: Autonomous Driving"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":two: Robotics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":three: Video Games & XR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":four: Digital Twins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":five: Other Topics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Talks & Seminars"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:02:07.819Z",
+    "original_repository": "worldbench/awesome-3d-4d-world-models",
+    "original_repository_sha": "f1bad78a33f465970f45b657b0df9e334a4ae700",
+    "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
+    "enhanced_repository_description": null,
+    "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
+  }
+}
