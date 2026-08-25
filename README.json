@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T15:28:08Z",
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1745
+                "stars": 1746
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-07-23T08:27:31Z",
                 "owner": "haoyi-duan",
                 "repo": "WorldScore",
-                "stars": 307
+                "stars": 308
               }
             }
           ],
@@ -159,7 +159,7 @@
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1074
+                "stars": 1075
               }
             }
           ],
@@ -427,7 +427,7 @@
                 "last_commit": "2026-06-07T17:21:25Z",
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 818
+                "stars": 819
               }
             },
             {
@@ -651,7 +651,7 @@
                 "last_commit": "2025-09-17T13:35:35Z",
                 "owner": "PJLab-ADG",
                 "repo": "DriveArena",
-                "stars": 468
+                "stars": 469
               }
             },
             {
@@ -711,7 +711,7 @@
                 "last_commit": "2025-09-17T13:35:35Z",
                 "owner": "PJLab-ADG",
                 "repo": "DriveArena",
-                "stars": 468
+                "stars": 469
               }
             },
             {
@@ -818,7 +818,7 @@
                     "last_commit": "2025-10-17T14:28:15Z",
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23007
+                    "stars": 23011
                   }
                 },
                 {
@@ -968,7 +968,7 @@
                     "last_commit": "2025-08-27T08:42:40Z",
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1252
+                    "stars": 1253
                   }
                 },
                 {
@@ -1178,7 +1178,7 @@
                     "last_commit": "2025-10-27T21:19:43Z",
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1074
+                    "stars": 1075
                   }
                 },
                 {
@@ -2462,7 +2462,7 @@
             },
             {
               "node_type": "item",
-              "title": "-",
+              "title": "Awesome-Robotics-Foundation-Models",
               "description": "Foundation Models in Robotics: Applications, Challenges, and the Future IJRR 2024 -",
               "children": [],
               "repo_info": {
@@ -2524,7 +2524,7 @@
                 "last_commit": "2023-04-07T11:02:38Z",
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 463
+                "stars": 464
               }
             },
             {
@@ -2614,7 +2614,7 @@
                 "last_commit": "2026-04-15T17:27:25Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2916
+                "stars": 2917
               }
             },
             {
@@ -2739,7 +2739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:25.186Z",
+    "last_updated": "2026-08-25T06:07:17.385Z",
     "original_repository": "worldbench/awesome-3d-4d-world-models",
     "original_repository_id": 1005844732,
     "original_repository_sha": "ca0dc34c615b7c768ac1fe0649bc98c73187b6fa",
