@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T15:28:08Z",
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1746
+                "stars": 1747
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1075
+                "stars": 1076
               }
             }
           ],
@@ -217,7 +217,7 @@
                 "last_commit": "2024-08-15T03:13:05Z",
                 "owner": "wenyuqing",
                 "repo": "panacea",
-                "stars": 263
+                "stars": 264
               }
             },
             {
@@ -307,7 +307,7 @@
                 "last_commit": "2024-11-21T15:15:13Z",
                 "owner": "EnVision-Research",
                 "repo": "SyntheOcc",
-                "stars": 104
+                "stars": 105
               }
             },
             {
@@ -464,7 +464,7 @@
                 "last_commit": "2023-12-07T02:40:39Z",
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 438
+                "stars": 439
               }
             },
             {
@@ -479,7 +479,7 @@
                 "last_commit": "2024-11-29T09:45:52Z",
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 591
+                "stars": 593
               }
             },
             {
@@ -524,7 +524,7 @@
                 "last_commit": "2025-01-15T04:19:03Z",
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 246
+                "stars": 247
               }
             },
             {
@@ -726,7 +726,7 @@
                 "last_commit": "2026-01-23T12:07:17Z",
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 138
+                "stars": 139
               }
             },
             {
@@ -801,7 +801,7 @@
                 "last_commit": "2026-03-10T16:16:49Z",
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 525
+                "stars": 527
               }
             },
             {
@@ -818,7 +818,7 @@
                     "last_commit": "2025-10-17T14:28:15Z",
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23011
+                    "stars": 23136
                   }
                 },
                 {
@@ -833,7 +833,7 @@
                     "last_commit": "2025-07-04T09:26:23Z",
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
-                    "stars": 1387
+                    "stars": 1388
                   }
                 },
                 {
@@ -983,7 +983,7 @@
                     "last_commit": "2025-03-24T09:40:23Z",
                     "owner": "GigaAI-research",
                     "repo": "DriveDreamer4D",
-                    "stars": 327
+                    "stars": 329
                   }
                 },
                 {
@@ -1028,7 +1028,7 @@
                     "last_commit": "2026-06-11T04:42:36Z",
                     "owner": "GigaAI-research",
                     "repo": "ReconDreamer",
-                    "stars": 226
+                    "stars": 227
                   }
                 },
                 {
@@ -1058,7 +1058,7 @@
                     "last_commit": "2026-01-23T12:07:17Z",
                     "owner": "nv-tlabs",
                     "repo": "InfiniCube",
-                    "stars": 138
+                    "stars": 139
                   }
                 },
                 {
@@ -1178,7 +1178,7 @@
                     "last_commit": "2025-10-27T21:19:43Z",
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1075
+                    "stars": 1076
                   }
                 },
                 {
@@ -1238,7 +1238,7 @@
                     "last_commit": "2026-07-24T12:08:04Z",
                     "owner": "TencentARC",
                     "repo": "MotionCrafter",
-                    "stars": 182
+                    "stars": 183
                   }
                 }
               ],
@@ -1346,7 +1346,7 @@
                 "last_commit": "2026-01-23T12:07:17Z",
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 138
+                "stars": 139
               }
             },
             {
@@ -1653,7 +1653,7 @@
                 "last_commit": "2026-02-01T14:35:40Z",
                 "owner": "MSunDYY",
                 "repo": "SparseOccVLA",
-                "stars": 82
+                "stars": 83
               }
             },
             {
@@ -1780,7 +1780,7 @@
                 "last_commit": "2026-01-23T12:07:17Z",
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 138
+                "stars": 139
               }
             },
             {
@@ -2375,7 +2375,7 @@
                 "last_commit": "2024-08-15T03:13:05Z",
                 "owner": "wenyuqing",
                 "repo": "panacea",
-                "stars": 263
+                "stars": 264
               }
             },
             {
@@ -2614,7 +2614,7 @@
                 "last_commit": "2026-04-15T17:27:25Z",
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2917
+                "stars": 2919
               }
             },
             {
@@ -2739,7 +2739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:17.385Z",
+    "last_updated": "2026-08-26T06:04:37.456Z",
     "original_repository": "worldbench/awesome-3d-4d-world-models",
     "original_repository_id": 1005844732,
     "original_repository_sha": "ca0dc34c615b7c768ac1fe0649bc98c73187b6fa",
