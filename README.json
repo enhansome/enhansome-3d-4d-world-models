@@ -159,7 +159,7 @@
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1078
+                "stars": 1079
               }
             }
           ],
@@ -818,7 +818,7 @@
                     "last_commit": "2025-10-17T14:28:15Z",
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23468
+                    "stars": 23471
                   }
                 },
                 {
@@ -833,7 +833,7 @@
                     "last_commit": "2025-07-04T09:26:23Z",
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
-                    "stars": 1389
+                    "stars": 1390
                   }
                 },
                 {
@@ -1178,7 +1178,7 @@
                     "last_commit": "2025-10-27T21:19:43Z",
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1078
+                    "stars": 1079
                   }
                 },
                 {
@@ -1593,7 +1593,7 @@
                 "last_commit": "2025-09-06T06:44:45Z",
                 "owner": "tasl-lab",
                 "repo": "UniOcc",
-                "stars": 223
+                "stars": 224
               }
             },
             {
@@ -2213,7 +2213,7 @@
                 "last_commit": "2025-12-12T00:26:33Z",
                 "owner": "worldbench",
                 "repo": "LiDARCrafter",
-                "stars": 202
+                "stars": 203
               }
             }
           ],
@@ -2317,7 +2317,7 @@
                 "last_commit": "2025-12-12T00:26:33Z",
                 "owner": "worldbench",
                 "repo": "LiDARCrafter",
-                "stars": 202
+                "stars": 203
               }
             }
           ],
@@ -2360,7 +2360,7 @@
                 "last_commit": "2025-12-12T00:26:33Z",
                 "owner": "worldbench",
                 "repo": "LiDARCrafter",
-                "stars": 202
+                "stars": 203
               }
             },
             {
@@ -2739,7 +2739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:17:37.528Z",
+    "last_updated": "2026-08-27T16:48:21.674Z",
     "original_repository_info": {
       "archived": false,
       "id": 1005844732,
