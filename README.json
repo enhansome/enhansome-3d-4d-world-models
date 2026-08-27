@@ -17,7 +17,7 @@
                 "last_commit": "2026-01-18T10:18:05Z",
                 "owner": "worldbench",
                 "repo": "WorldLens",
-                "stars": 244
+                "stars": 245
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T15:28:08Z",
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1747
+                "stars": 1748
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-07-23T08:27:31Z",
                 "owner": "haoyi-duan",
                 "repo": "WorldScore",
-                "stars": 308
+                "stars": 309
               }
             }
           ],
@@ -99,7 +99,7 @@
                 "last_commit": "2025-12-06T11:05:24Z",
                 "owner": "worldbench",
                 "repo": "Robo3D",
-                "stars": 378
+                "stars": 379
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2025-10-27T21:19:43Z",
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1076
+                "stars": 1078
               }
             }
           ],
@@ -479,7 +479,7 @@
                 "last_commit": "2024-11-29T09:45:52Z",
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 593
+                "stars": 594
               }
             },
             {
@@ -569,7 +569,7 @@
                 "last_commit": "2025-07-22T06:35:46Z",
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -584,7 +584,7 @@
                 "last_commit": "2025-07-03T10:02:35Z",
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 164
+                "stars": 165
               }
             },
             {
@@ -786,7 +786,7 @@
                 "last_commit": "2026-01-02T04:25:29Z",
                 "owner": "Pixtella",
                 "repo": "Challenger",
-                "stars": 152
+                "stars": 153
               }
             },
             {
@@ -801,7 +801,7 @@
                 "last_commit": "2026-03-10T16:16:49Z",
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 527
+                "stars": 528
               }
             },
             {
@@ -818,7 +818,7 @@
                     "last_commit": "2025-10-17T14:28:15Z",
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23136
+                    "stars": 23468
                   }
                 },
                 {
@@ -833,7 +833,7 @@
                     "last_commit": "2025-07-04T09:26:23Z",
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
-                    "stars": 1388
+                    "stars": 1389
                   }
                 },
                 {
@@ -968,7 +968,7 @@
                     "last_commit": "2025-08-27T08:42:40Z",
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1253
+                    "stars": 1254
                   }
                 },
                 {
@@ -998,7 +998,7 @@
                     "last_commit": "2024-12-20T20:40:03Z",
                     "owner": "chengweialan",
                     "repo": "DeSiRe-GS",
-                    "stars": 243
+                    "stars": 244
                   }
                 },
                 {
@@ -1013,7 +1013,7 @@
                     "last_commit": "2025-10-09T08:57:32Z",
                     "owner": "carlinds",
                     "repo": "splatad",
-                    "stars": 414
+                    "stars": 415
                   }
                 },
                 {
@@ -1178,7 +1178,7 @@
                     "last_commit": "2025-10-27T21:19:43Z",
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1076
+                    "stars": 1078
                   }
                 },
                 {
@@ -1193,7 +1193,7 @@
                     "last_commit": "2026-04-09T10:24:33Z",
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 120
+                    "stars": 121
                   }
                 },
                 {
@@ -1361,7 +1361,7 @@
                 "last_commit": "2026-07-13T23:08:30Z",
                 "owner": "yuhengliu02",
                 "repo": "control-3d-scene",
-                "stars": 70
+                "stars": 71
               }
             },
             {
@@ -1488,7 +1488,7 @@
                 "last_commit": "2024-05-31T01:57:02Z",
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -1593,7 +1593,7 @@
                 "last_commit": "2025-09-06T06:44:45Z",
                 "owner": "tasl-lab",
                 "repo": "UniOcc",
-                "stars": 222
+                "stars": 223
               }
             },
             {
@@ -1638,7 +1638,7 @@
                 "last_commit": "2026-06-18T05:04:31Z",
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 366
+                "stars": 367
               }
             },
             {
@@ -1735,7 +1735,7 @@
                 "last_commit": "2024-05-31T01:57:02Z",
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -2345,7 +2345,7 @@
                 "last_commit": "2024-05-31T01:57:02Z",
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 204
+                "stars": 205
               }
             },
             {
@@ -2457,7 +2457,7 @@
                 "last_commit": "2024-07-09T14:03:26Z",
                 "owner": "vlmaps",
                 "repo": "vlmaps",
-                "stars": 718
+                "stars": 719
               }
             },
             {
@@ -2524,7 +2524,7 @@
                 "last_commit": "2023-04-07T11:02:38Z",
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 464
+                "stars": 465
               }
             },
             {
@@ -2584,7 +2584,7 @@
                 "last_commit": "2025-09-11T10:07:12Z",
                 "owner": "ML-GSAI",
                 "repo": "FlexWorld",
-                "stars": 134
+                "stars": 135
               }
             },
             {
@@ -2739,9 +2739,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:04:37.456Z",
-    "original_repository": "worldbench/awesome-3d-4d-world-models",
-    "original_repository_id": 1005844732,
+    "last_updated": "2026-08-27T11:17:37.528Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1005844732,
+      "language": "HTML",
+      "last_commit": "2026-08-21T06:18:22Z",
+      "owner": "worldbench",
+      "repo": "awesome-3d-4d-world-models",
+      "stars": 971
+    },
     "original_repository_sha": "ca0dc34c615b7c768ac1fe0649bc98c73187b6fa",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
