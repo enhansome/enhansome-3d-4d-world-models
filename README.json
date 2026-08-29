@@ -12,12 +12,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026 Oral] WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World",
+                "homepage": "https://worldbench.github.io/worldlens",
                 "id": 1102815866,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-18T10:18:05Z",
+                "open_issues": 7,
                 "owner": "worldbench",
                 "repo": "WorldLens",
-                "stars": 245
+                "stars": 245,
+                "topics": [
+                  "3d",
+                  "4d",
+                  "aigc",
+                  "aigc3d",
+                  "autonomous-driving",
+                  "generation",
+                  "generative-ai",
+                  "human-preferences",
+                  "lidar",
+                  "occupancy",
+                  "reconstruction",
+                  "scene-understanding",
+                  "spatial-intelligence",
+                  "video-generation",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -28,12 +49,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2024 Highlight] VBench - We Evaluate Video Generation",
+                "homepage": "https://vchitect.github.io/VBench-project/",
                 "id": 724118604,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T15:28:08Z",
+                "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1749
+                "stars": 1750,
+                "topics": [
+                  "aigc",
+                  "benchmark",
+                  "dataset",
+                  "evaluation-kit",
+                  "gen-ai",
+                  "stable-diffusion",
+                  "text-to-video",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -44,12 +79,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation for WorldScore: A Unified Evaluation Benchmark for World Generation",
+                "homepage": "https://haoyi-duan.github.io/WorldScore/",
                 "id": 958229916,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-23T08:27:31Z",
+                "open_issues": 11,
                 "owner": "haoyi-duan",
                 "repo": "WorldScore",
-                "stars": 309
+                "stars": 309,
+                "topics": [
+                  "benchmark",
+                  "computer-vision",
+                  "world-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -67,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 270789327,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-05T19:29:18Z",
+                "open_issues": 34,
                 "owner": "princeton-computational-imaging",
                 "repo": "SeeingThroughFog",
-                "stars": 379
+                "stars": 379,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -83,12 +132,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Devkit for the public 2019 Lyft Level 5 AV Dataset (fork of https://github.com/nutonomy/nuscenes-devkit)",
+                "homepage": null,
                 "id": 198295665,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-23T19:52:52Z",
+                "open_issues": 52,
                 "owner": "lyft",
                 "repo": "nuscenes-devkit",
-                "stars": 390
+                "stars": 390,
+                "topics": [
+                  "lyft"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -99,12 +155,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] Robo3D: Towards Robust and Reliable 3D Perception against Corruptions ",
+                "homepage": "https://ldkong.com/Robo3D",
                 "id": 602035460,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-06T11:05:24Z",
+                "open_issues": 9,
                 "owner": "worldbench",
                 "repo": "Robo3D",
-                "stars": 379
+                "stars": 379,
+                "topics": [
+                  "3d-object-detection",
+                  "autonomous-driving",
+                  "lidar-segmentation",
+                  "ood-robustness"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -115,12 +181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception",
+                "homepage": null,
                 "id": 609724628,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-10T02:47:10Z",
+                "open_issues": 27,
                 "owner": "JeffWang987",
                 "repo": "OpenOccupancy",
-                "stars": 744
+                "stars": 744,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -131,12 +202,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024 Highlight] GenAD: Generalized Predictive Model for Autonomous Driving ",
+                "homepage": "https://opendrivelab.com/AutonomousDriving",
                 "id": 632101482,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-27T12:40:42Z",
+                "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805
+                "stars": 805,
+                "topics": [
+                  "autonomous-driving",
+                  "embodied-ai",
+                  "foundation-model",
+                  "general-artificial-intelligence",
+                  "large-dataset",
+                  "policy-learning",
+                  "video-dataset",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -147,12 +233,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IROS2024] SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving",
+                "homepage": null,
                 "id": 649029444,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-09T07:33:14Z",
+                "open_issues": 12,
                 "owner": "ai4ce",
                 "repo": "SSCBench",
-                "stars": 221
+                "stars": 221,
+                "topics": [
+                  "2d-to-3d",
+                  "3d-perception",
+                  "3d-scene-understanding",
+                  "artificial-intelligence",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "computer-vision",
+                  "dataset",
+                  "machine-learning",
+                  "occupancy-grid-map",
+                  "semantic-scene-completion",
+                  "semantic-scene-understanding"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -163,12 +267,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CoRL '25] Pseudo-Simulation for Autonomous Driving; [NeurIPS '24] NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking",
+                "homepage": null,
                 "id": 745836406,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-27T21:19:43Z",
+                "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1080
+                "stars": 1080,
+                "topics": [
+                  "autonomous-driving",
+                  "planning",
+                  "self-driving"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -192,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Street-View Image Generation from a Bird’s-Eye View Layout: Official Codebase",
+                "homepage": null,
                 "id": 681004486,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-13T05:09:16Z",
+                "open_issues": 3,
                 "owner": "alexanderswerdlow",
                 "repo": "BEVGen",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -208,12 +326,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR24] Official implementation of the paper “MagicDrive: Street View Generation with Diverse 3D Geometry Control”",
+                "homepage": "https://gaoruiyuan.com/magicdrive/",
                 "id": 703433265,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-21T10:20:04Z",
+                "open_issues": 8,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1166
+                "stars": 1166,
+                "topics": [
+                  "autonomous-vehicles",
+                  "deep-learning",
+                  "diffusion-models",
+                  "image-generation",
+                  "pytorch",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -224,12 +354,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2024] Official Repository of Paper \"Panacea: Panoramic and Controllable Video Generation for Autonomous Driving\"",
+                "homepage": "https://panacea-ad.github.io/",
                 "id": 728126143,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-15T03:13:05Z",
+                "open_issues": 7,
                 "owner": "wenyuqing",
                 "repo": "panacea",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "autonomous-driving",
+                  "generative-models",
+                  "image-generation",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -240,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Officially implement of the paper \"DrivingDiffusion: Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model\".",
+                "homepage": null,
                 "id": 693618593,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-15T03:44:01Z",
+                "open_issues": 12,
                 "owner": "shalfun",
                 "repo": "DrivingDiffusion",
-                "stars": 565
+                "stars": 565,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -256,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation",
+                "homepage": null,
                 "id": 694455975,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-06T17:36:52Z",
+                "open_issues": 3,
                 "owner": "fudan-zvg",
                 "repo": "WoVoGen",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -272,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code Release of Delphi",
+                "homepage": null,
                 "id": 809562597,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-04T18:28:32Z",
+                "open_issues": 2,
                 "owner": "westlake-autolab",
                 "repo": "Delphi",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -288,12 +443,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simulator-conditioned Driving Scene Generation",
+                "homepage": null,
                 "id": 808790387,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-14T11:36:01Z",
+                "open_issues": 7,
                 "owner": "metadriverse",
                 "repo": "SimGen",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "autonomous-driving",
+                  "diffusion-models",
+                  "driving-simulator"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -304,12 +468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 851401031,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-09-04T06:34:59Z",
+                "open_issues": 2,
                 "owner": "LiAutoAD",
                 "repo": "DIVE",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -320,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 865712264,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-21T15:15:13Z",
+                "open_issues": 1,
                 "owner": "EnVision-Research",
                 "repo": "SyntheOcc",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -336,12 +510,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source code repository of driving world models, with training, inferencing, evaluation tools, and pretrained checkpoints.",
+                "homepage": null,
                 "id": 917001485,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-19T09:49:21Z",
+                "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 419
+                "stars": 419,
+                "topics": [
+                  "autonomous-driving",
+                  "diffusion-models",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -352,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2025] DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation",
+                "homepage": null,
                 "id": 770421359,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-26T02:46:38Z",
+                "open_issues": 25,
                 "owner": "f1yfisher",
                 "repo": "DriveDreamer2",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -368,12 +557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] Glad: A Streaming Scene Generator for Autonomous Driving",
+                "homepage": null,
                 "id": 929740263,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-09T09:29:31Z",
+                "open_issues": 1,
                 "owner": "xb534",
                 "repo": "Glad",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -384,12 +578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2025] A dual-branch conditional diffusion model designed to enhance driving scene generation across multiple views and video sequences.",
+                "homepage": null,
                 "id": 945521841,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-13T06:43:29Z",
+                "open_issues": 1,
                 "owner": "yangzhaojason",
                 "repo": "DualDiff",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -400,12 +599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025, TPAMI 2026] UniScene: Unified Occupancy-centric Driving Scene Generation",
+                "homepage": null,
                 "id": 901150178,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-24T12:07:35Z",
+                "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 610
+                "stars": 610,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -416,12 +620,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICCV 2025-PerLDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models",
+                "homepage": "https://arxiv.org/abs/2407.06109",
                 "id": 808870263,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-01-05T06:34:53Z",
+                "open_issues": 2,
                 "owner": "CVL-UESTC",
                 "repo": "PerLDiff",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "3d-annotation",
+                  "autonomous-driving",
+                  "controllable-generation",
+                  "diffusion-models",
+                  "geometric-priors",
+                  "iccv2025"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -432,12 +648,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] Official Implementation of DINO-Foresight: Looking into the Future with DINO",
+                "homepage": "https://neurips.cc/virtual/2025/loc/san-diego/poster/116713",
                 "id": 904606333,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-26T15:15:25Z",
+                "open_issues": 0,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "autonomous-driving",
+                  "future-prediction",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -448,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cosmos-Transfer1 is a world-to-world transfer model designed to bridge the perceptual divide between simulated and real-world environments.",
+                "homepage": "https://research.nvidia.com/labs/dir/cosmos-transfer1",
                 "id": 941557915,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-07T17:21:25Z",
+                "open_issues": 23,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 819
+                "stars": 819,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -464,12 +694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2025] A dual-branch conditional diffusion model designed to enhance driving scene generation across multiple views and video sequences.",
+                "homepage": null,
                 "id": 945521841,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-13T06:43:29Z",
+                "open_issues": 1,
                 "owner": "yangzhaojason",
                 "repo": "DualDiff",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -487,12 +722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] A world model for autonomous driving.",
+                "homepage": null,
                 "id": 720275234,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-07T02:40:39Z",
+                "open_issues": 8,
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 439
+                "stars": 439,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -503,12 +743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
+                "homepage": null,
                 "id": 692705523,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-29T09:45:52Z",
+                "open_issues": 24,
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 594
+                "stars": 594,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -519,12 +764,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024 Highlight] GenAD: Generalized Predictive Model for Autonomous Driving ",
+                "homepage": "https://opendrivelab.com/AutonomousDriving",
                 "id": 632101482,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-27T12:40:42Z",
+                "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805
+                "stars": 805,
+                "topics": [
+                  "autonomous-driving",
+                  "embodied-ai",
+                  "foundation-model",
+                  "general-artificial-intelligence",
+                  "large-dataset",
+                  "policy-learning",
+                  "video-dataset",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -535,12 +795,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] A Generalizable World Model for Autonomous Driving",
+                "homepage": "https://opendrivelab.com/Vista",
                 "id": 798687584,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:27:25Z",
+                "open_issues": 23,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 895
+                "stars": 895,
+                "topics": [
+                  "autonomous-driving",
+                  "video-generation",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -551,12 +820,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT\"",
+                "homepage": "https://huxiaotaostasy.github.io/DrivingWorld/index.html",
                 "id": 908133244,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-15T04:19:03Z",
+                "open_issues": 5,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "autonomous-driving",
+                  "driving-world-model",
+                  "generative-model",
+                  "gpt",
+                  "video-generation",
+                  "video-gpt",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -567,12 +849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Github Repo for GEM",
+                "homepage": "https://vita-epfl.github.io/GEM.github.io/",
                 "id": 898571901,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-16T09:11:48Z",
+                "open_issues": 3,
                 "owner": "vita-epfl",
                 "repo": "GEM",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -583,12 +870,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source code repository of driving world models, with training, inferencing, evaluation tools, and pretrained checkpoints.",
+                "homepage": null,
                 "id": 917001485,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-19T09:49:21Z",
+                "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 419
+                "stars": 419,
+                "topics": [
+                  "autonomous-driving",
+                  "diffusion-models",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -599,12 +896,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for Epona: Autoregressive Diffusion World Model for Autonomous Driving (ICCV 2025)",
+                "homepage": "https://kevin-thu.github.io/Epona/",
                 "id": 1009038213,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-22T06:35:46Z",
+                "open_issues": 6,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 385
+                "stars": 385,
+                "topics": [
+                  "autonomous-driving",
+                  "diffusion-models",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -615,12 +922,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VaViM and VaVAM: Autonomous Driving through Video Generative Modeling (official repository).",
+                "homepage": "https://valeoai.github.io/vavim-vavam/",
                 "id": 754994104,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-07-03T10:02:35Z",
+                "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "autonomous-driving",
+                  "mobile-robots",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -631,12 +948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 949709588,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-22T03:33:24Z",
+                "open_issues": 2,
                 "owner": "xiaomi-mlab",
                 "repo": "mila.github.io",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -647,12 +969,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌟[AAAI 2026] The official repo for \"LongDWM: Cross-Granularity Distillation for Building a Long-Term Driving World Model\"",
+                "homepage": "https://arxiv.org/abs/2506.01546",
                 "id": 995174411,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-03T09:46:37Z",
+                "open_issues": 2,
                 "owner": "Wang-Xiaodong1899",
                 "repo": "Long-DWM",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "diffusion-models",
+                  "driving",
+                  "video-generation",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -670,12 +1002,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of the paper “MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes”",
+                "homepage": "https://gaoruiyuan.com/magicdrive3d/",
                 "id": 812111293,
                 "language": null,
+                "license": "AGPL-3.0",
                 "last_commit": "2025-12-02T08:08:09Z",
+                "open_issues": 1,
                 "owner": "flymin",
                 "repo": "MagicDrive3D",
-                "stars": 295
+                "stars": 295,
+                "topics": [
+                  "3d",
+                  "autonomous-driving",
+                  "diffusion-models",
+                  "scene-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -686,12 +1028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving",
+                "homepage": "https://pjlab-adg.github.io/DriveArena/",
                 "id": 835614819,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-17T13:35:35Z",
+                "open_issues": 24,
                 "owner": "PJLab-ADG",
                 "repo": "DriveArena",
-                "stars": 469
+                "stars": 469,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -702,12 +1049,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Doe-1: Closed-Loop Autonomous Driving with Large World Model",
+                "homepage": "https://wzzheng.net/Doe",
                 "id": 901395235,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-21T20:55:11Z",
+                "open_issues": 8,
                 "owner": "wzzheng",
                 "repo": "Doe",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -718,12 +1070,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation",
+                "homepage": null,
                 "id": 889500637,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-05-28T08:21:15Z",
+                "open_issues": 1,
                 "owner": "yanty123",
                 "repo": "DrivingSphere",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -734,12 +1091,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for CVPR2025 paper: Generating Multimodal Driving Scenes via Next-Scene Prediction",
+                "homepage": null,
                 "id": 951761814,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-07T08:17:26Z",
+                "open_issues": 6,
                 "owner": "YanhaoWu",
                 "repo": "UMGen",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -750,12 +1112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving",
+                "homepage": "https://pjlab-adg.github.io/DriveArena/",
                 "id": 835614819,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-17T13:35:35Z",
+                "open_issues": 24,
                 "owner": "PJLab-ADG",
                 "repo": "DriveArena",
-                "stars": 469
+                "stars": 469,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -766,12 +1133,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models",
+                "homepage": "https://research.nvidia.com/labs/toronto-ai/infinicube/",
                 "id": 1008711174,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-23T12:07:17Z",
+                "open_issues": 3,
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "3d",
+                  "generative-ai",
+                  "video-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -782,12 +1158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation",
+                "homepage": null,
                 "id": 946387108,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-12T14:33:10Z",
+                "open_issues": 10,
                 "owner": "royalmelon0505",
                 "repo": "dist4d",
-                "stars": 207
+                "stars": 207,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -798,12 +1179,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA 2026] UniFuture: A 4D Driving World Model for Future Generation and Perception",
+                "homepage": null,
                 "id": 950081757,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-26T09:12:01Z",
+                "open_issues": 1,
                 "owner": "dk-liang",
                 "repo": "UniFuture",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -814,12 +1200,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Nexus: Decoupled Diffusion Sparks Adaptive Scene Generation",
+                "homepage": "https://opendrivelab.com/Nexus",
                 "id": 961845648,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-06T04:57:47Z",
+                "open_issues": 3,
                 "owner": "OpenDriveLab",
                 "repo": "Nexus",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "diffusion-models",
+                  "scene-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -830,12 +1225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CoRLW 2025 (Oral), IASEAI 2026] Implementation for \"Challenger: Affordable Adversarial Driving Video Generation\"",
+                "homepage": "https://pixtella.github.io/Challenger/",
                 "id": 986045092,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-01-02T04:25:29Z",
+                "open_issues": 1,
                 "owner": "Pixtella",
                 "repo": "Challenger",
-                "stars": 153
+                "stars": 153,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -846,12 +1246,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models",
+                "homepage": "https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams",
                 "id": 998211994,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-10T16:16:49Z",
+                "open_issues": 28,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 529
+                "stars": 530,
+                "topics": [
+                  "autonomous-driving",
+                  "generation",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -864,12 +1273,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+                    "homepage": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
                     "id": 662028682,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-17T14:28:15Z",
+                    "open_issues": 713,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23608
+                    "stars": 23633,
+                    "topics": [
+                      "computer-graphics",
+                      "computer-vision",
+                      "radiance-field"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -880,12 +1298,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024] Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting",
+                    "homepage": null,
                     "id": 736399160,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-04T09:26:23Z",
+                    "open_issues": 61,
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
-                    "stars": 1388
+                    "stars": 1388,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -896,12 +1319,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Photo-realistic mapping of dynamic urban areas",
+                    "homepage": null,
                     "id": 810819021,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-11-11T15:01:25Z",
+                    "open_issues": 3,
                     "owner": "tobiasfshr",
                     "repo": "map4d",
-                    "stars": 294
+                    "stars": 294,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -912,12 +1340,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] SCube: Instant Large-Scale Scene Reconstruction using VoxSplats",
+                    "homepage": "https://research.nvidia.com/labs/toronto-ai/scube/",
                     "id": 878605324,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-14T02:59:27Z",
+                    "open_issues": 15,
                     "owner": "nv-tlabs",
                     "repo": "SCube",
-                    "stars": 528
+                    "stars": 528,
+                    "topics": [
+                      "3d-reconstruction",
+                      "diffusion-models",
+                      "gaussian-splatting",
+                      "sparse-view",
+                      "voxel"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -928,12 +1367,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of the paper \"HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting\"\"",
+                    "homepage": null,
                     "id": 813992987,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-13T12:58:06Z",
+                    "open_issues": 2,
                     "owner": "hyzhou404",
                     "repo": "HUGS",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -944,12 +1388,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of the paper “MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes”",
+                    "homepage": "https://gaoruiyuan.com/magicdrive3d/",
                     "id": 812111293,
                     "language": null,
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-12-02T08:08:09Z",
+                    "open_issues": 1,
                     "owner": "flymin",
                     "repo": "MagicDrive3D",
-                    "stars": 295
+                    "stars": 295,
+                    "topics": [
+                      "3d",
+                      "autonomous-driving",
+                      "diffusion-models",
+                      "scene-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -960,12 +1414,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of Self-Supervised Street Gaussians for Autonomous Driving",
+                    "homepage": null,
                     "id": 807984023,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-31T16:01:38Z",
+                    "open_issues": 34,
                     "owner": "nnanhuang",
                     "repo": "S3Gaussian",
-                    "stars": 545
+                    "stars": 545,
+                    "topics": [
+                      "3d",
+                      "3dgs",
+                      "autonomous-driving",
+                      "computer-vision",
+                      "driving",
+                      "dynamic-scene",
+                      "gaussian",
+                      "neural-network",
+                      "neural-rendering",
+                      "unsupervised-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -976,12 +1446,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 838303631,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-08-05T11:31:20Z",
+                    "open_issues": 3,
                     "owner": "lifuguan",
                     "repo": "VDG_official",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -992,12 +1467,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model",
+                    "homepage": "https://wzzheng.net/Stag",
                     "id": 898329907,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-10T00:53:57Z",
+                    "open_issues": 5,
                     "owner": "wzzheng",
                     "repo": "Stag",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1008,12 +1488,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 902212784,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-11-13T16:07:15Z",
+                    "open_issues": 0,
                     "owner": "EnVision-Research",
                     "repo": "DriveRecon",
-                    "stars": 193
+                    "stars": 193,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1024,12 +1509,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A 3DGS framework for omni urban scene reconstruction and simulation.",
+                    "homepage": "https://ziyc.github.io/omnire/",
                     "id": 849128566,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-08-27T08:42:40Z",
+                    "open_issues": 55,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1254
+                    "stars": 1254,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1040,12 +1530,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2025] DriveDreamer4D",
+                    "homepage": null,
                     "id": 874117491,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-03-24T09:40:23Z",
+                    "open_issues": 15,
                     "owner": "GigaAI-research",
                     "repo": "DriveDreamer4D",
-                    "stars": 329
+                    "stars": 329,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1056,12 +1551,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation for \"DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes\"",
+                    "homepage": null,
                     "id": 888266709,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-20T20:40:03Z",
+                    "open_issues": 19,
                     "owner": "chengweialan",
                     "repo": "DeSiRe-GS",
-                    "stars": 244
+                    "stars": 244,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1072,12 +1572,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving",
+                    "homepage": "https://research.zenseact.com/publications/splatad/",
                     "id": 894037914,
                     "language": "Cuda",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-09T08:57:32Z",
+                    "open_issues": 13,
                     "owner": "carlinds",
                     "repo": "splatad",
-                    "stars": 416
+                    "stars": 416,
+                    "topics": [
+                      "3d-reconstruction",
+                      "autonomous-driving",
+                      "cuda",
+                      "gaussian-splatting"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1088,12 +1598,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2025] ReconDreamer",
+                    "homepage": null,
                     "id": 895535064,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-11T04:42:36Z",
+                    "open_issues": 12,
                     "owner": "GigaAI-research",
                     "repo": "ReconDreamer",
-                    "stars": 227
+                    "stars": 227,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1104,12 +1619,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2025] StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models",
+                    "homepage": "https://zju3dv.github.io/street_crafter/",
                     "id": 898895800,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-27T09:02:28Z",
+                    "open_issues": 19,
                     "owner": "zju3dv",
                     "repo": "street_crafter",
-                    "stars": 333
+                    "stars": 333,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1120,12 +1640,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models",
+                    "homepage": "https://research.nvidia.com/labs/toronto-ai/infinicube/",
                     "id": 1008711174,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-01-23T12:07:17Z",
+                    "open_issues": 3,
                     "owner": "nv-tlabs",
                     "repo": "InfiniCube",
-                    "stars": 139
+                    "stars": 139,
+                    "topics": [
+                      "3d",
+                      "generative-ai",
+                      "video-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1136,12 +1665,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] DiST-4D: Disentangled Spatiotemporal Diffusion with Metric Depth for 4D Driving Scene Generation",
+                    "homepage": null,
                     "id": 946387108,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-08-12T14:33:10Z",
+                    "open_issues": 10,
                     "owner": "royalmelon0505",
                     "repo": "dist4d",
-                    "stars": 207
+                    "stars": 207,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1152,12 +1686,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "official code of \"MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction\"",
+                    "homepage": "https://heiheishuang.xyz/mudg",
                     "id": 948116824,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-28T01:59:07Z",
+                    "open_issues": 2,
                     "owner": "heiheishuang",
                     "repo": "MuDG",
-                    "stars": 99
+                    "stars": 99,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1168,12 +1707,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA 2026] UniFuture: A 4D Driving World Model for Future Generation and Perception",
+                    "homepage": null,
                     "id": 950081757,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-26T09:12:01Z",
+                    "open_issues": 1,
                     "owner": "dk-liang",
                     "repo": "UniFuture",
-                    "stars": 164
+                    "stars": 164,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1184,12 +1728,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving",
+                    "homepage": null,
                     "id": 953513850,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-11-20T09:30:31Z",
+                    "open_issues": 1,
                     "owner": "cancaries",
                     "repo": "SceneCrafter",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1200,12 +1749,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 953891292,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-03-25T06:28:31Z",
+                    "open_issues": 2,
                     "owner": "GigaAI-research",
                     "repo": "ReconDreamer-Plus",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1216,12 +1770,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 982473742,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-03T03:15:32Z",
+                    "open_issues": 3,
                     "owner": "fudan-zvg",
                     "repo": "RealEngine",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1232,12 +1791,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 991348261,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-06-08T08:17:52Z",
+                    "open_issues": 7,
                     "owner": "antonioo-c",
                     "repo": "GeoDrive",
-                    "stars": 60
+                    "stars": 60,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1248,12 +1812,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CoRL '25] Pseudo-Simulation for Autonomous Driving; [NeurIPS '24] NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking",
+                    "homepage": null,
                     "id": 745836406,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-27T21:19:43Z",
+                    "open_issues": 47,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1080
+                    "stars": 1080,
+                    "topics": [
+                      "autonomous-driving",
+                      "planning",
+                      "self-driving"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1264,12 +1837,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026] Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models. ",
+                    "homepage": "https://paulpanwang.github.io/Diff4Splat",
                     "id": 1053593766,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-09T10:24:33Z",
+                    "open_issues": 1,
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": [
+                      "3d",
+                      "3d-generation",
+                      "4d",
+                      "4d-generation",
+                      "dynamic-scene-modeling",
+                      "scene-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1280,12 +1865,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026] SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time",
+                    "homepage": "https://zheninghuang.github.io/Space-Time-Pilot/",
                     "id": 1125968233,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-17T03:17:22Z",
+                    "open_issues": 1,
                     "owner": "ZheningHuang",
                     "repo": "SpaceTimePilot",
-                    "stars": 127
+                    "stars": 127,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1296,12 +1886,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FLAG-4D improves dynamic 4D scene reconstruction by employing dual-deformation networks and flow-guided attention to evolve 3D Gaussians with higher fidelity and temporal coherence.",
+                    "homepage": null,
                     "id": 1097575530,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-03-26T04:11:00Z",
+                    "open_issues": 0,
                     "owner": "tgy1221",
                     "repo": "FLAG-4D",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 },
@@ -1312,12 +1907,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026 Highlight🔥] MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE",
+                    "homepage": "https://ruijiezhu94.github.io/MotionCrafter_Page/",
                     "id": 1150330457,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-24T12:08:04Z",
+                    "open_issues": 0,
                     "owner": "TencentARC",
                     "repo": "MotionCrafter",
-                    "stars": 183
+                    "stars": 183,
+                    "topics": [
+                      "3d-reconstruction",
+                      "4d-reconstruction",
+                      "crafter",
+                      "cvpr2026",
+                      "diffusion",
+                      "dynamic",
+                      "geometry",
+                      "motion",
+                      "motion-estimation",
+                      "sceneflow",
+                      "vae",
+                      "video"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
                 }
@@ -1346,12 +1959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for \"Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data\"",
+                "homepage": null,
                 "id": 583508796,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-27T12:42:38Z",
+                "open_issues": 4,
                 "owner": "zoomin-lee",
                 "repo": "scene-scale-diffusion",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1362,12 +1980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] The official implementation for \"SemCity: Semantic Scene Generation with Triplane Diffusion\"",
+                "homepage": null,
                 "id": 771022219,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-02T13:33:38Z",
+                "open_issues": 9,
                 "owner": "zoomin-lee",
                 "repo": "SemCity",
-                "stars": 208
+                "stars": 208,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1378,12 +2001,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation",
+                "homepage": null,
                 "id": 694455975,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-06T17:36:52Z",
+                "open_issues": 3,
                 "owner": "fudan-zvg",
                 "repo": "WoVoGen",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1394,12 +2022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation",
+                "homepage": null,
                 "id": 889500637,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-05-28T08:21:15Z",
+                "open_issues": 1,
                 "owner": "yanty123",
                 "repo": "DrivingSphere",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1410,12 +2043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025, TPAMI 2026] UniScene: Unified Occupancy-centric Driving Scene Generation",
+                "homepage": null,
                 "id": 901150178,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-24T12:07:35Z",
+                "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 610
+                "stars": 610,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1426,12 +2064,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models",
+                "homepage": "https://research.nvidia.com/labs/toronto-ai/infinicube/",
                 "id": 1008711174,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-23T12:07:17Z",
+                "open_issues": 3,
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "3d",
+                  "generative-ai",
+                  "video-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1442,12 +2089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Controllable 3D Outdoor Scene Generation via Scene Graphs",
+                "homepage": "https://yuheng.ink/project-page/control-3d-scene/",
                 "id": 889336242,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-13T23:08:30Z",
+                "open_issues": 1,
                 "owner": "yuhengliu02",
                 "repo": "control-3d-scene",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1458,12 +2110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] 𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability",
+                "homepage": "https://x-scene.github.io/",
                 "id": 1003339553,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-09T10:03:39Z",
+                "open_issues": 3,
                 "owner": "yuyang-cloud",
                 "repo": "X-Scene",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1474,12 +2131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] \"GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation\"",
+                "homepage": null,
                 "id": 1107436713,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-18T07:00:52Z",
+                "open_issues": 1,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -1497,12 +2159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the ECCV '22 paper, \"Differentiable Raycasting for Self-supervised Occupancy Forecasting\"",
+                "homepage": null,
                 "id": 515714934,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-04T04:49:17Z",
+                "open_issues": 2,
                 "owner": "tarashakhurana",
                 "repo": "emergent-occ-forecasting",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1513,12 +2180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR 2023: Official code for `Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting'",
+                "homepage": "https://www.cs.cmu.edu/~tkhurana/ff4d/index.html",
                 "id": 605800415,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-11T14:33:24Z",
+                "open_issues": 6,
                 "owner": "tarashakhurana",
                 "repo": "4d-occ-forecasting",
-                "stars": 250
+                "stars": 250,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1529,12 +2201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of our RAL'24 paper: Multi-Camera Unified Pre-training for Autonomous Driving",
+                "homepage": null,
                 "id": 647050431,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-15T01:55:53Z",
+                "open_issues": 4,
                 "owner": "chaytonmin",
                 "repo": "UniScene",
-                "stars": 237
+                "stars": 237,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1545,12 +2222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] 3D World Model for Autonomous Driving",
+                "homepage": "https://wzzheng.net/OccWorld/",
                 "id": 722421287,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-12T08:22:17Z",
+                "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 579
+                "stars": 579,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1561,12 +2243,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications",
+                "homepage": null,
                 "id": 725393883,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-13T08:30:40Z",
+                "open_issues": 12,
                 "owner": "haomo-ai",
                 "repo": "Cam4DOcc",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "3d-occupancy",
+                  "3d-occupancy-prediction",
+                  "4d-occupancy",
+                  "occupancy-forecasting",
+                  "occupancy-prediction",
+                  "surrounded-camera"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1577,12 +2271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving",
+                "homepage": "https://wzzheng.net/OccSora/",
                 "id": 807377343,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-31T01:57:02Z",
+                "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1593,12 +2292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "official code of *DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model*",
+                "homepage": null,
                 "id": 890179855,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-12T19:40:02Z",
+                "open_issues": 4,
                 "owner": "gusongen",
                 "repo": "DOME",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1609,12 +2313,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GaussianAD: Gaussian-Centric End-to-End Autonomous Driving",
+                "homepage": null,
                 "id": 903963728,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-12T05:02:46Z",
+                "open_issues": 4,
                 "owner": "wzzheng",
                 "repo": "GaussianAD",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1625,12 +2334,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] Gaussian World Model for Streaming 3D Occupancy Prediction",
+                "homepage": null,
                 "id": 902521689,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-04T07:17:16Z",
+                "open_issues": 5,
                 "owner": "zuosc19",
                 "repo": "GaussianWorld",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1641,12 +2355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2025] Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving",
+                "homepage": "https://drive-occworld.github.io/",
                 "id": 901338212,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-10T03:01:47Z",
+                "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1657,12 +2376,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving",
+                "homepage": "https://arxiv.org/abs/2502.07309",
                 "id": 905243430,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-14T07:03:13Z",
+                "open_issues": 1,
                 "owner": "getterupper",
                 "repo": "PreWorld",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "autonomous-driving",
+                  "occupancy-prediction"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1673,12 +2400,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework",
+                "homepage": "https://jlchen-c.github.io/OccProphet/",
                 "id": 936011961,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-18T03:40:44Z",
+                "open_issues": 4,
                 "owner": "JLChen-C",
                 "repo": "OccProphet",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "4d-occupancy-forecasting",
+                  "autonomous-driving"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1689,12 +2424,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving",
+                "homepage": null,
                 "id": 957662481,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-06T06:44:45Z",
+                "open_issues": 8,
                 "owner": "tasl-lab",
                 "repo": "UniOcc",
-                "stars": 224
+                "stars": 224,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1705,12 +2445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adding Scene-Centric Forecasting Control to Occupancy World Model",
+                "homepage": null,
                 "id": 1001409205,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-01T08:38:00Z",
+                "open_issues": 2,
                 "owner": "synsin0",
                 "repo": "COME",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1721,12 +2466,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV2025] II-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting",
+                "homepage": null,
                 "id": 981900993,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-01T04:02:58Z",
+                "open_issues": 1,
                 "owner": "lzzzzzm",
                 "repo": "II-World",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "autonomous-driving",
+                  "occupancy",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1737,12 +2491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2026] OmniNWM: Omniscient Navigation World Models for Autonomous Driving",
+                "homepage": "https://arlo0o.github.io/OmniNWM/",
                 "id": 1025363637,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-18T05:04:31Z",
+                "open_issues": 5,
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 368
+                "stars": 368,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1753,12 +2512,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning",
+                "homepage": null,
                 "id": 1133177512,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-01T14:35:40Z",
+                "open_issues": 5,
                 "owner": "MSunDYY",
                 "repo": "SparseOccVLA",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "autonomous-driving",
+                  "occupancy",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1769,12 +2537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] \"GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation\"",
+                "homepage": null,
                 "id": 1107436713,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-18T07:00:52Z",
+                "open_issues": 1,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -1792,12 +2565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] The official implementation for \"SemCity: Semantic Scene Generation with Triplane Diffusion\"",
+                "homepage": null,
                 "id": 771022219,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-02T13:33:38Z",
+                "open_issues": 9,
                 "owner": "zoomin-lee",
                 "repo": "SemCity",
-                "stars": 208
+                "stars": 208,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1808,12 +2586,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024 Highlight] XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies",
+                "homepage": "https://research.nvidia.com/labs/toronto-ai/xcube/",
                 "id": 805900550,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-18T03:45:03Z",
+                "open_issues": 21,
                 "owner": "nv-tlabs",
                 "repo": "XCube",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "3d-generation",
+                  "computer-vision",
+                  "generative-ai",
+                  "graphics",
+                  "voxel"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1824,12 +2613,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024 Oral] Pyramid Diffusion for Fine 3D Large Scene Generation",
+                "homepage": "https://yuheng.ink/project-page/pyramid-discrete-diffusion/",
                 "id": 721154650,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-04T05:50:38Z",
+                "open_issues": 0,
                 "owner": "yuhengliu02",
                 "repo": "pyramid-discrete-diffusion",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "3d-scene-generation",
+                  "diffusion-models",
+                  "fine-grained-3d-scene"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1840,12 +2638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving",
+                "homepage": "https://wzzheng.net/OccSora/",
                 "id": 807377343,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-31T01:57:02Z",
+                "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1856,12 +2659,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025 Spotlight] Official implementation for \"DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes\"",
+                "homepage": "https://dynamic-city.github.io",
                 "id": 877637581,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-22T08:04:03Z",
+                "open_issues": 2,
                 "owner": "3DTopia",
                 "repo": "DynamicCity",
-                "stars": 246
+                "stars": 247,
+                "topics": [
+                  "4d-generation",
+                  "autonomous-driving",
+                  "iclr2025"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1872,12 +2684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025] DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation",
+                "homepage": null,
                 "id": 889500637,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-05-28T08:21:15Z",
+                "open_issues": 1,
                 "owner": "yanty123",
                 "repo": "DrivingSphere",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1888,12 +2705,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models",
+                "homepage": "https://research.nvidia.com/labs/toronto-ai/infinicube/",
                 "id": 1008711174,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-23T12:07:17Z",
+                "open_issues": 3,
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "3d",
+                  "generative-ai",
+                  "video-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1904,12 +2730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] 𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability",
+                "homepage": "https://x-scene.github.io/",
                 "id": 1003339553,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-09T10:03:39Z",
+                "open_issues": 3,
                 "owner": "yuyang-cloud",
                 "repo": "X-Scene",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1920,12 +2751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1007009781,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-24T10:00:57Z",
+                "open_issues": 1,
                 "owner": "autonomousvision",
                 "repo": "pritti",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -1949,12 +2785,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning to Drop Points for LiDAR Scan Synthesis (IROS 2021)",
+                "homepage": "https://kazuto1011.github.io/dusty-gan",
                 "id": 341779392,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-09T05:24:45Z",
+                "open_issues": 1,
                 "owner": "kazuto1011",
                 "repo": "dusty-gan",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "generative-adversarial-networks",
+                  "lidar"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1965,12 +2809,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Learning to Generate Realistic LiDAR Point Clouds\" (ECCV 2022)",
+                "homepage": "https://www.zyrianov.org/lidargen/",
                 "id": 535353599,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-16T04:26:04Z",
+                "open_issues": 8,
                 "owner": "vzyrianov",
                 "repo": "lidargen",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "diffusion",
+                  "diffusion-models",
+                  "generative-model",
+                  "lidar",
+                  "lidar-generation",
+                  "score-matching"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1981,12 +2837,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generative Range Imaging for Learning Scene Priors of 3D LiDAR Data (WACV 2023)",
+                "homepage": "https://kazuto1011.github.io/dusty-gan-v2",
                 "id": 549321167,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-29T08:36:45Z",
+                "open_issues": 0,
                 "owner": "kazuto1011",
                 "repo": "dusty-gan-v2",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "generative-adversarial-networks",
+                  "lidar"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -1997,12 +2861,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LiDAR Data Synthesis with Denoising Diffusion Probabilistic Models (ICRA 2024)",
+                "homepage": "https://kazuto1011.github.io/r2dm/",
                 "id": 693459111,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-21T10:16:28Z",
+                "open_issues": 1,
                 "owner": "kazuto1011",
                 "repo": "r2dm",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "diffusion-models",
+                  "lidar"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2013,12 +2885,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024 Highlight] Visual Point Cloud Forecasting",
+                "homepage": "https://arxiv.org/abs/2312.17655",
                 "id": 728532286,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:29:05Z",
+                "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 352
+                "stars": 352,
+                "topics": [
+                  "autonomous-driving",
+                  "point-cloud-forecasting",
+                  "pre-training",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2029,12 +2911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'24] Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion",
+                "homepage": null,
                 "id": 761136364,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-15T11:59:21Z",
+                "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "LiDiff",
-                "stars": 293
+                "stars": 293,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2045,12 +2932,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Official implementation of \"Towards Realistic Scene Generation with LiDAR Diffusion Models\"",
+                "homepage": "https://lidar-diffusion.github.io/",
                 "id": 778560533,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-21T11:12:27Z",
+                "open_issues": 16,
                 "owner": "hancyran",
                 "repo": "LiDAR-Diffusion",
-                "stars": 288
+                "stars": 288,
+                "topics": [
+                  "controllable-generation",
+                  "diffusion-models",
+                  "lidar",
+                  "lidar-diffusion-models",
+                  "lidar-generation",
+                  "range-image",
+                  "text-to-lidar"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2061,12 +2961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Official implementation of \"RangeLDM: Fast Realistic LiDAR Point Cloud Generation\"",
+                "homepage": null,
                 "id": 827692895,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-25T03:12:26Z",
+                "open_issues": 8,
                 "owner": "WoodwindHu",
                 "repo": "RangeLDM",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2077,12 +2982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 824870374,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-12-04T06:43:16Z",
+                "open_issues": 6,
                 "owner": "wuyang98",
                 "repo": "Text2LiDAR",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2093,12 +3003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 747346460,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-25T17:37:42Z",
+                "open_issues": 1,
                 "owner": "hamedhaghighi",
                 "repo": "LidarGRIT",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2109,12 +3024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 822375400,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-09T02:31:16Z",
+                "open_issues": 9,
                 "owner": "zympsyche",
                 "repo": "BevWorld",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2125,12 +3045,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repository of \"LOGen: Towards LiDAR Object Generation by Point Diffusion\"",
+                "homepage": null,
                 "id": 991428070,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-27T09:02:14Z",
+                "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "LOGen",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2141,12 +3066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2025] OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving",
+                "homepage": "https://yanty123.github.io/OLiDM/",
                 "id": 904606697,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-12-24T02:12:23Z",
+                "open_issues": 2,
                 "owner": "yanty123",
                 "repo": "OLiDM",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2157,12 +3087,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] Official code implementation for the paper \"X-Drive: Cross-modality Consistent Multi-Sensor Data Synthesis for Driving Scenarios\"",
+                "homepage": null,
                 "id": 881739910,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-12T00:14:12Z",
+                "open_issues": 4,
                 "owner": "yichen928",
                 "repo": "X-Drive",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2173,12 +3108,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"LidarDM: Generative LiDAR Simulation in a Generated World\" (ICRA 2025)",
+                "homepage": "https://www.zyrianov.org/lidardm",
                 "id": 780651923,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-12T08:18:54Z",
+                "open_issues": 0,
                 "owner": "vzyrianov",
                 "repo": "LidarDM",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "lidar-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2189,12 +3131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 867324068,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-04T09:04:32Z",
+                "open_issues": 0,
                 "owner": "HoAdrian",
                 "repo": "ICRA2025_lidar_edit",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2205,12 +3152,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast LiDAR Data Generation with Rectified Flows (ICRA 2025)",
+                "homepage": "https://kazuto1011.github.io/r2flow/",
                 "id": 858494365,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-13T10:16:23Z",
+                "open_issues": 0,
                 "owner": "kazuto1011",
                 "repo": "r2flow",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "flow-matching",
+                  "lidar"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2221,12 +3176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 949794012,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-06-03T02:00:51Z",
+                "open_issues": 2,
                 "owner": "wuyang98",
                 "repo": "weathergen",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2237,12 +3197,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IV 2025, Oral] Official code of \"LiDPM: Rethinking Point Diffusion for Lidar Scene Completion\"",
+                "homepage": "https://astra-vision.github.io/LiDPM/",
                 "id": 968059237,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-25T10:42:53Z",
+                "open_issues": 0,
                 "owner": "astra-vision",
                 "repo": "LiDPM",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "diffusion",
+                  "diffusion-model",
+                  "diffusion-models",
+                  "lidar",
+                  "lidar-point-cloud",
+                  "point-cloud",
+                  "point-diffusion",
+                  "pointcloud",
+                  "scene-completion"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2253,12 +3228,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation",
+                "homepage": "https://arxiv.org/abs/2501.14729",
                 "id": 921468271,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T03:05:38Z",
+                "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 260
+                "stars": 260,
+                "topics": [
+                  "autonomous-driving",
+                  "worldmodel"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2269,12 +3252,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation and Understanding",
+                "homepage": null,
                 "id": 1067858810,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-08T16:32:39Z",
+                "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "SPIRAL",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "3d",
+                  "3d-gen",
+                  "aigc",
+                  "aigc3d",
+                  "autonomous-driving",
+                  "lidar",
+                  "lidar-generation",
+                  "lidar-seg",
+                  "point-cloud",
+                  "semantic-segmentation",
+                  "spatial-intelligence"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2285,12 +3285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D Diffusion Semantic Scenes",
+                "homepage": null,
                 "id": 947739341,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-28T14:33:36Z",
+                "open_issues": 0,
                 "owner": "PRBonn",
                 "repo": "3DiSS",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2301,12 +3306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion [AAAI'26]",
+                "homepage": null,
                 "id": 959216885,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-02T02:09:12Z",
+                "open_issues": 2,
                 "owner": "happyw1nd",
                 "repo": "DistillationDPO",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2317,12 +3327,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source code repository of driving world models, with training, inferencing, evaluation tools, and pretrained checkpoints.",
+                "homepage": null,
                 "id": 917001485,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-19T09:49:21Z",
+                "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 419
+                "stars": 419,
+                "topics": [
+                  "autonomous-driving",
+                  "diffusion-models",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2333,12 +3353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2026] RadarGen: Automotive Radar Point Cloud Generation from Cameras",
+                "homepage": "https://radargen.github.io/",
                 "id": 1113716296,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-04-26T12:58:04Z",
+                "open_issues": 0,
                 "owner": "tomerborreda",
                 "repo": "RadarGen",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2349,12 +3374,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2026 Oral] LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences",
+                "homepage": "https://lidarcrafter.github.io",
                 "id": 1032722881,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-12T00:26:33Z",
+                "open_issues": 4,
                 "owner": "worldbench",
                 "repo": "LiDARCrafter",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "3d-generation",
+                  "3d-object-detection",
+                  "4d-generation",
+                  "aigc",
+                  "aigc3d",
+                  "autonomous-driving",
+                  "generative-ai",
+                  "lidar",
+                  "lidar-generation",
+                  "scene-understanding",
+                  "spatial-intelligence",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -2372,12 +3415,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024 Highlight] Visual Point Cloud Forecasting",
+                "homepage": "https://arxiv.org/abs/2312.17655",
                 "id": 728532286,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:29:05Z",
+                "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 352
+                "stars": 352,
+                "topics": [
+                  "autonomous-driving",
+                  "point-cloud-forecasting",
+                  "pre-training",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2388,12 +3441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 822375400,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-09T02:31:16Z",
+                "open_issues": 9,
                 "owner": "zympsyche",
                 "repo": "BevWorld",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2404,12 +3462,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation",
+                "homepage": "https://arxiv.org/abs/2501.14729",
                 "id": 921468271,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T03:05:38Z",
+                "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 260
+                "stars": 260,
+                "topics": [
+                  "autonomous-driving",
+                  "worldmodel"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -2427,12 +3493,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"LidarDM: Generative LiDAR Simulation in a Generated World\" (ICRA 2025)",
+                "homepage": "https://www.zyrianov.org/lidardm",
                 "id": 780651923,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-12T08:18:54Z",
+                "open_issues": 0,
                 "owner": "vzyrianov",
                 "repo": "LidarDM",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "lidar-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2443,12 +3516,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source code repository of driving world models, with training, inferencing, evaluation tools, and pretrained checkpoints.",
+                "homepage": null,
                 "id": 917001485,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-19T09:49:21Z",
+                "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 419
+                "stars": 419,
+                "topics": [
+                  "autonomous-driving",
+                  "diffusion-models",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2459,12 +3542,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2026 Oral] LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences",
+                "homepage": "https://lidarcrafter.github.io",
                 "id": 1032722881,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-12T00:26:33Z",
+                "open_issues": 4,
                 "owner": "worldbench",
                 "repo": "LiDARCrafter",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "3d-generation",
+                  "3d-object-detection",
+                  "4d-generation",
+                  "aigc",
+                  "aigc3d",
+                  "autonomous-driving",
+                  "generative-ai",
+                  "lidar",
+                  "lidar-generation",
+                  "scene-understanding",
+                  "spatial-intelligence",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -2488,12 +3589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving",
+                "homepage": "https://wzzheng.net/OccSora/",
                 "id": 807377343,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-31T01:57:02Z",
+                "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2504,12 +3610,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2026 Oral] LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences",
+                "homepage": "https://lidarcrafter.github.io",
                 "id": 1032722881,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-12T00:26:33Z",
+                "open_issues": 4,
                 "owner": "worldbench",
                 "repo": "LiDARCrafter",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "3d-generation",
+                  "3d-object-detection",
+                  "4d-generation",
+                  "aigc",
+                  "aigc3d",
+                  "autonomous-driving",
+                  "generative-ai",
+                  "lidar",
+                  "lidar-generation",
+                  "scene-understanding",
+                  "spatial-intelligence",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2520,12 +3644,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2024] Official Repository of Paper \"Panacea: Panoramic and Controllable Video Generation for Autonomous Driving\"",
+                "homepage": "https://panacea-ad.github.io/",
                 "id": 728126143,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-15T03:13:05Z",
+                "open_issues": 7,
                 "owner": "wenyuqing",
                 "repo": "panacea",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "autonomous-driving",
+                  "generative-models",
+                  "image-generation",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2536,12 +3670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code Release of Delphi",
+                "homepage": null,
                 "id": 809562597,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-04T18:28:32Z",
+                "open_issues": 2,
                 "owner": "westlake-autolab",
                 "repo": "Delphi",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2552,12 +3691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2025] DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation",
+                "homepage": null,
                 "id": 770421359,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-26T02:46:38Z",
+                "open_issues": 25,
                 "owner": "f1yfisher",
                 "repo": "DriveDreamer2",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2568,12 +3712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 949709588,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-22T03:33:24Z",
+                "open_issues": 2,
                 "owner": "xiaomi-mlab",
                 "repo": "mila.github.io",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2584,12 +3733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] \"GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation\"",
+                "homepage": null,
                 "id": 1107436713,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-18T07:00:52Z",
+                "open_issues": 1,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -2607,12 +3761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2023] Implementation of Visual Language Maps for Robot Navigation",
+                "homepage": "https://vlmaps.github.io/",
                 "id": 534158859,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-09T14:03:26Z",
+                "open_issues": 16,
                 "owner": "vlmaps",
                 "repo": "vlmaps",
-                "stars": 720
+                "stars": 720,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2623,12 +3782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 718423019,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-10-07T19:03:58Z",
+                "open_issues": 3,
                 "owner": "robotics-survey",
                 "repo": "Awesome-Robotics-Foundation-Models",
-                "stars": 1400
+                "stars": 1401,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2639,12 +3803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 951713241,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-20T06:12:26Z",
+                "open_issues": 0,
                 "owner": "UMass-Embodied-AGI",
                 "repo": "robodreamer",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2655,12 +3824,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Algorithm Codebase for the Paper \"BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities\"",
+                "homepage": null,
                 "id": 945351481,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-24T21:42:57Z",
+                "open_issues": 5,
                 "owner": "behavior-robot-suite",
                 "repo": "brs-algo",
-                "stars": 174
+                "stars": 174,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -2678,12 +3852,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏘️ Scaling Embodied AI by Procedurally Generating Interactive 3D Houses",
+                "homepage": "https://procthor.allenai.org/",
                 "id": 517817721,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-07T11:02:38Z",
+                "open_issues": 47,
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 465
+                "stars": 465,
+                "topics": [
+                  "ai2-thor",
+                  "computer-vision",
+                  "embodied-ai",
+                  "procedural-generation",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2694,12 +3879,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WorldGPT: Empowering LLM as Multimodal World Model",
+                "homepage": null,
                 "id": 788531230,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-08-06T08:08:15Z",
+                "open_issues": 1,
                 "owner": "DCDmllm",
                 "repo": "WorldGPT",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2710,12 +3900,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH Asia 2025] WorldExplorer: Towards Generating Fully Navigable 3D Scenes",
+                "homepage": "https://mschneider456.github.io/world-explorer/",
                 "id": 1058343850,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-30T13:03:28Z",
+                "open_issues": 0,
                 "owner": "mschneider456",
                 "repo": "worldexplorer",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "scene-generation",
+                  "video-diffusion",
+                  "world-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2726,12 +3926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2025 Findings] Text2World: Benchmarking Large Language Models for Symbolic World Model Generation",
+                "homepage": null,
                 "id": 933744838,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-25T03:21:41Z",
+                "open_issues": 0,
                 "owner": "Aaron617",
                 "repo": "text2world",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2742,12 +3947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation for \"FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis\".",
+                "homepage": null,
                 "id": 949862065,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-11T10:07:12Z",
+                "open_issues": 9,
                 "owner": "ML-GSAI",
                 "repo": "FlexWorld",
-                "stars": 135
+                "stars": 135,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2758,12 +3968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition",
+                "homepage": "https://hunyuan-gamecraft.github.io/",
                 "id": 1037196711,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-28T07:05:10Z",
+                "open_issues": 18,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 740
+                "stars": 740,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2774,12 +3989,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels with Hunyuan3D World Model",
+                "homepage": "https://3d.hunyuan.tencent.com/sceneTo3D",
                 "id": 1022300160,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-15T17:27:25Z",
+                "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2921
+                "stars": 2921,
+                "topics": [
+                  "3d",
+                  "3d-generation",
+                  "aigc",
+                  "hunyuan3d",
+                  "image-to-3d",
+                  "scene-generation",
+                  "text-to-3d",
+                  "world-model",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2790,12 +4020,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Arxiv'25] MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization",
+                "homepage": null,
                 "id": 1017370296,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-16T10:04:17Z",
+                "open_issues": 4,
                 "owner": "MKJia",
                 "repo": "MGVQ",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "auto-regressive-model",
+                  "c2i",
+                  "image-generation",
+                  "image-reconstruction",
+                  "image-tokenizer",
+                  "multi-codebook",
+                  "tokenizer",
+                  "uhd-dataset",
+                  "vae",
+                  "vq-vae",
+                  "vqgan"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2806,12 +4053,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory",
+                "homepage": "https://arxiv.org/abs/2510.01183",
                 "id": 1064925119,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-13T20:25:27Z",
+                "open_issues": 4,
                 "owner": "JiahaoPlus",
                 "repo": "EvoWorld",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "3d-reconstruction",
+                  "computer-vision",
+                  "generative-ai",
+                  "memory",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2822,12 +4081,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The first open-domain closed-loop revisited benchmark for evaluating memory consistency and action control in world models.",
+                "homepage": "https://csu-jpg.github.io/MIND.github.io/",
                 "id": 1150640230,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-02T08:22:53Z",
+                "open_issues": 1,
                 "owner": "CSU-JPG",
                 "repo": "MIND",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "3d",
+                  "aigc",
+                  "computer-vision",
+                  "image-to-video",
+                  "text-to-video",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -2845,12 +4116,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025 Spotlight] Official implementation for \"DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes\"",
+                "homepage": "https://dynamic-city.github.io",
                 "id": 877637581,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-22T08:04:03Z",
+                "open_issues": 2,
                 "owner": "3DTopia",
                 "repo": "DynamicCity",
-                "stars": 246
+                "stars": 247,
+                "topics": [
+                  "4d-generation",
+                  "autonomous-driving",
+                  "iclr2025"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2861,12 +4141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://vcc.tech/UrbanScene3D",
                 "id": 511880142,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-12-12T11:08:41Z",
+                "open_issues": 7,
                 "owner": "Linxius",
                 "repo": "UrbanScene3D",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2877,12 +4162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of the paper \"UrbanWorld: An Urban World Model for 3D City Generation\"",
+                "homepage": null,
                 "id": 860716432,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-09T05:42:13Z",
+                "open_issues": 1,
                 "owner": "Urban-World",
                 "repo": "UrbanWorld",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
@@ -2893,12 +4183,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of \"GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation\". (CVPR 2025)",
+                "homepage": "https://haozhexie.com/project/gaussian-city",
                 "id": 806328614,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-30T01:54:05Z",
+                "open_issues": 1,
                 "owner": "hzxie",
                 "repo": "GaussianCity",
-                "stars": 340
+                "stars": 340,
+                "topics": [
+                  "3d-aigc",
+                  "3d-generation",
+                  "city-generation",
+                  "cvpr2025",
+                  "gaussian-splatting"
+                ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
             }
@@ -2912,15 +4213,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:42:23.130Z",
+    "last_updated": "2026-08-29T04:37:31.139Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
+      "homepage": "https://worldbench.github.io/survey",
       "id": 1005844732,
       "language": "HTML",
+      "license": "Apache-2.0",
       "last_commit": "2026-08-21T06:18:22Z",
+      "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 973
+      "stars": 973,
+      "topics": [
+        "3d",
+        "3d-generation",
+        "4d",
+        "4d-generation",
+        "autonomous-driving",
+        "awesome-list",
+        "embodied-ai",
+        "lidar-generation",
+        "occupancy-generation",
+        "spatial-intelligence",
+        "video-generation",
+        "world-models"
+      ]
     },
     "original_repository_sha": "ca0dc34c615b7c768ac1fe0649bc98c73187b6fa",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
