@@ -1282,7 +1282,7 @@
                     "open_issues": 713,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23633,
+                    "stars": 23644,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -3833,7 +3833,7 @@
                 "open_issues": 5,
                 "owner": "behavior-robot-suite",
                 "repo": "brs-algo",
-                "stars": 174,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4213,7 +4213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:31.139Z",
+    "last_updated": "2026-08-29T11:47:03.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
