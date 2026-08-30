@@ -120,7 +120,7 @@
                 "open_issues": 34,
                 "owner": "princeton-computational-imaging",
                 "repo": "SeeingThroughFog",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -335,7 +335,7 @@
                 "open_issues": 8,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1166,
+                "stars": 1165,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -1011,7 +1011,7 @@
                 "open_issues": 1,
                 "owner": "flymin",
                 "repo": "MagicDrive3D",
-                "stars": 295,
+                "stars": 294,
                 "topics": [
                   "3d",
                   "autonomous-driving",
@@ -1188,7 +1188,7 @@
                 "open_issues": 1,
                 "owner": "dk-liang",
                 "repo": "UniFuture",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1282,7 +1282,7 @@
                     "open_issues": 713,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23644,
+                    "stars": 23663,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1397,7 +1397,7 @@
                     "open_issues": 1,
                     "owner": "flymin",
                     "repo": "MagicDrive3D",
-                    "stars": 295,
+                    "stars": 294,
                     "topics": [
                       "3d",
                       "autonomous-driving",
@@ -1716,7 +1716,7 @@
                     "open_issues": 1,
                     "owner": "dk-liang",
                     "repo": "UniFuture",
-                    "stars": 164,
+                    "stars": 165,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2500,7 +2500,7 @@
                 "open_issues": 5,
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 368,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2521,7 +2521,7 @@
                 "open_issues": 5,
                 "owner": "MSunDYY",
                 "repo": "SparseOccVLA",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "autonomous-driving",
                   "occupancy",
@@ -2894,7 +2894,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -3237,7 +3237,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "autonomous-driving",
                   "worldmodel"
@@ -3424,7 +3424,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -3471,7 +3471,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "autonomous-driving",
                   "worldmodel"
@@ -3909,7 +3909,7 @@
                 "open_issues": 0,
                 "owner": "mschneider456",
                 "repo": "worldexplorer",
-                "stars": 193,
+                "stars": 195,
                 "topics": [
                   "3d-gaussian-splatting",
                   "scene-generation",
@@ -4213,7 +4213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:47:03.405Z",
+    "last_updated": "2026-08-30T10:40:38.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4225,7 +4225,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 973,
+      "stars": 974,
       "topics": [
         "3d",
         "3d-generation",
