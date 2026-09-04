@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1757,
+                "stars": 1759,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -273,10 +273,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-27T21:19:43Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1084,
+                "stars": 1086,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1209,7 +1209,7 @@
                 "open_issues": 3,
                 "owner": "OpenDriveLab",
                 "repo": "Nexus",
-                "stars": 122,
+                "stars": 123,
                 "topics": [
                   "diffusion-models",
                   "scene-generation",
@@ -1255,7 +1255,7 @@
                 "open_issues": 28,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 532,
+                "stars": 534,
                 "topics": [
                   "autonomous-driving",
                   "generation",
@@ -1282,7 +1282,7 @@
                     "open_issues": 713,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23715,
+                    "stars": 23733,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1376,7 +1376,7 @@
                     "open_issues": 2,
                     "owner": "hyzhou404",
                     "repo": "HUGS",
-                    "stars": 190,
+                    "stars": 189,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1818,10 +1818,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-10-27T21:19:43Z",
-                    "open_issues": 47,
+                    "open_issues": 48,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1084,
+                    "stars": 1086,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -1916,7 +1916,7 @@
                     "open_issues": 0,
                     "owner": "TencentARC",
                     "repo": "MotionCrafter",
-                    "stars": 183,
+                    "stars": 184,
                     "topics": [
                       "3d-reconstruction",
                       "4d-reconstruction",
@@ -2137,7 +2137,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-18T07:00:52Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
                 "stars": 115,
@@ -2231,7 +2231,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 580,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2252,7 +2252,7 @@
                 "open_issues": 12,
                 "owner": "haomo-ai",
                 "repo": "Cam4DOcc",
-                "stars": 288,
+                "stars": 289,
                 "topics": [
                   "3d-occupancy",
                   "3d-occupancy-prediction",
@@ -2543,7 +2543,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-18T07:00:52Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
                 "stars": 115,
@@ -2595,7 +2595,7 @@
                 "open_issues": 21,
                 "owner": "nv-tlabs",
                 "repo": "XCube",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "3d-generation",
                   "computer-vision",
@@ -2818,7 +2818,7 @@
                 "open_issues": 8,
                 "owner": "vzyrianov",
                 "repo": "lidargen",
-                "stars": 154,
+                "stars": 155,
                 "topics": [
                   "diffusion",
                   "diffusion-models",
@@ -3739,7 +3739,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-18T07:00:52Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
                 "stars": 115,
@@ -3998,7 +3998,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2925,
+                "stars": 2927,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4090,7 +4090,7 @@
                 "open_issues": 1,
                 "owner": "CSU-JPG",
                 "repo": "MIND",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "3d",
                   "aigc",
@@ -4213,7 +4213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T10:04:54.509Z",
+    "last_updated": "2026-09-04T09:55:48.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
