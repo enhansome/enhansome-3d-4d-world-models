@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-18T10:18:05Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "worldbench",
                 "repo": "WorldLens",
                 "stars": 248,
@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1762,
+                "stars": 1765,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -211,7 +211,7 @@
                 "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805,
+                "stars": 804,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -276,7 +276,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1089,
+                "stars": 1091,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -773,7 +773,7 @@
                 "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805,
+                "stars": 804,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -1252,7 +1252,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-10T16:16:49Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
                 "stars": 536,
@@ -1282,7 +1282,7 @@
                     "open_issues": 713,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23755,
+                    "stars": 23760,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1518,7 +1518,7 @@
                     "open_issues": 55,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1257,
+                    "stars": 1258,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1821,7 +1821,7 @@
                     "open_issues": 47,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1089,
+                    "stars": 1091,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -1846,7 +1846,7 @@
                     "open_issues": 1,
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 121,
+                    "stars": 122,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -2252,7 +2252,7 @@
                 "open_issues": 12,
                 "owner": "haomo-ai",
                 "repo": "Cam4DOcc",
-                "stars": 290,
+                "stars": 291,
                 "topics": [
                   "3d-occupancy",
                   "3d-occupancy-prediction",
@@ -2322,7 +2322,7 @@
                 "open_issues": 4,
                 "owner": "wzzheng",
                 "repo": "GaussianAD",
-                "stars": 129,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2433,7 +2433,7 @@
                 "open_issues": 8,
                 "owner": "tasl-lab",
                 "repo": "UniOcc",
-                "stars": 225,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2668,7 +2668,7 @@
                 "open_issues": 2,
                 "owner": "3DTopia",
                 "repo": "DynamicCity",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "4d-generation",
                   "autonomous-driving",
@@ -3791,7 +3791,7 @@
                 "open_issues": 3,
                 "owner": "robotics-survey",
                 "repo": "Awesome-Robotics-Foundation-Models",
-                "stars": 1403,
+                "stars": 1404,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3861,7 +3861,7 @@
                 "open_issues": 47,
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "ai2-thor",
                   "computer-vision",
@@ -3977,7 +3977,7 @@
                 "open_issues": 18,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 740,
+                "stars": 741,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4090,7 +4090,7 @@
                 "open_issues": 1,
                 "owner": "CSU-JPG",
                 "repo": "MIND",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "3d",
                   "aigc",
@@ -4125,7 +4125,7 @@
                 "open_issues": 2,
                 "owner": "3DTopia",
                 "repo": "DynamicCity",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "4d-generation",
                   "autonomous-driving",
@@ -4188,11 +4188,11 @@
                 "id": 806328614,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-07-30T01:54:05Z",
+                "last_commit": "2026-09-07T15:39:53Z",
                 "open_issues": 1,
                 "owner": "hzxie",
                 "repo": "GaussianCity",
-                "stars": 340,
+                "stars": 339,
                 "topics": [
                   "3d-aigc",
                   "3d-generation",
@@ -4213,7 +4213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:43:40.180Z",
+    "last_updated": "2026-09-08T10:04:56.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
