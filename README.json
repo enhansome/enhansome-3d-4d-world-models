@@ -161,7 +161,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-12-06T11:05:24Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "worldbench",
                 "repo": "Robo3D",
                 "stars": 379,
@@ -276,7 +276,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1096,
+                "stars": 1099,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -931,7 +931,7 @@
                 "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "autonomous-driving",
                   "mobile-robots",
@@ -1279,10 +1279,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-10-17T14:28:15Z",
-                    "open_issues": 713,
+                    "open_issues": 714,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23831,
+                    "stars": 23860,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1303,7 +1303,7 @@
                     "id": 736399160,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2025-07-04T09:26:23Z",
+                    "last_commit": "2026-09-15T07:34:34Z",
                     "open_issues": 61,
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
@@ -1518,7 +1518,7 @@
                     "open_issues": 55,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1261,
+                    "stars": 1262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1624,7 +1624,7 @@
                     "id": 898895800,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-01-27T09:02:28Z",
+                    "last_commit": "2026-09-15T07:34:37Z",
                     "open_issues": 19,
                     "owner": "zju3dv",
                     "repo": "street_crafter",
@@ -1821,7 +1821,7 @@
                     "open_issues": 47,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1096,
+                    "stars": 1099,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2210,7 +2210,7 @@
                 "open_issues": 4,
                 "owner": "chaytonmin",
                 "repo": "UniScene",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2280,7 +2280,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2364,7 +2364,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2385,7 +2385,7 @@
                 "open_issues": 1,
                 "owner": "getterupper",
                 "repo": "PreWorld",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "autonomous-driving",
                   "occupancy-prediction"
@@ -2430,7 +2430,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-06T06:44:45Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "tasl-lab",
                 "repo": "UniOcc",
                 "stars": 226,
@@ -2500,7 +2500,7 @@
                 "open_issues": 5,
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 374,
+                "stars": 375,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2647,7 +2647,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3598,7 +3598,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3770,7 +3770,7 @@
                 "open_issues": 16,
                 "owner": "vlmaps",
                 "repo": "vlmaps",
-                "stars": 721,
+                "stars": 722,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4213,7 +4213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:58:22.296Z",
+    "last_updated": "2026-09-15T10:26:39.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
