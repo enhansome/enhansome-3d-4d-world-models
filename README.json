@@ -58,7 +58,7 @@
                 "open_issues": 74,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1777,
+                "stars": 1779,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -276,7 +276,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1099,
+                "stars": 1102,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1282,7 +1282,7 @@
                     "open_issues": 714,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23860,
+                    "stars": 23877,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1560,7 +1560,7 @@
                     "open_issues": 19,
                     "owner": "chengweialan",
                     "repo": "DeSiRe-GS",
-                    "stars": 245,
+                    "stars": 246,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1581,7 +1581,7 @@
                     "open_issues": 13,
                     "owner": "carlinds",
                     "repo": "splatad",
-                    "stars": 424,
+                    "stars": 425,
                     "topics": [
                       "3d-reconstruction",
                       "autonomous-driving",
@@ -1821,7 +1821,7 @@
                     "open_issues": 47,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1099,
+                    "stars": 1102,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2140,7 +2140,7 @@
                 "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2231,7 +2231,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 585,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2546,7 +2546,7 @@
                 "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3237,7 +3237,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "autonomous-driving",
                   "worldmodel"
@@ -3471,7 +3471,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "HERMES",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "autonomous-driving",
                   "worldmodel"
@@ -3742,7 +3742,7 @@
                 "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 116,
+                "stars": 117,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3833,7 +3833,7 @@
                 "open_issues": 5,
                 "owner": "behavior-robot-suite",
                 "repo": "brs-algo",
-                "stars": 175,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4213,7 +4213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T10:26:39.943Z",
+    "last_updated": "2026-09-16T10:17:13.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4225,7 +4225,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 983,
+      "stars": 985,
       "topics": [
         "3d",
         "3d-generation",
