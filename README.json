@@ -58,7 +58,7 @@
                 "open_issues": 74,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1779,
+                "stars": 1782,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -276,7 +276,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1103,
+                "stars": 1104,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -519,7 +519,7 @@
                 "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -608,7 +608,7 @@
                 "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 614,
+                "stars": 615,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -804,7 +804,7 @@
                 "open_issues": 23,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 898,
+                "stars": 899,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -829,7 +829,7 @@
                 "open_issues": 5,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "autonomous-driving",
                   "driving-world-model",
@@ -879,7 +879,7 @@
                 "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -905,7 +905,7 @@
                 "open_issues": 6,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 389,
+                "stars": 388,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -931,7 +931,7 @@
                 "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "autonomous-driving",
                   "mobile-robots",
@@ -1058,7 +1058,7 @@
                 "open_issues": 8,
                 "owner": "wzzheng",
                 "repo": "Doe",
-                "stars": 113,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1255,7 +1255,7 @@
                 "open_issues": 29,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 538,
+                "stars": 540,
                 "topics": [
                   "autonomous-driving",
                   "generation",
@@ -1282,7 +1282,7 @@
                     "open_issues": 714,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23891,
+                    "stars": 23904,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1821,7 +1821,7 @@
                     "open_issues": 47,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1103,
+                    "stars": 1104,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -1846,7 +1846,7 @@
                     "open_issues": 1,
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -2052,7 +2052,7 @@
                 "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 614,
+                "stars": 615,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2622,7 +2622,7 @@
                 "open_issues": 0,
                 "owner": "yuhengliu02",
                 "repo": "pyramid-discrete-diffusion",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "3d-scene-generation",
                   "diffusion-models",
@@ -3336,7 +3336,7 @@
                 "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -3525,7 +3525,7 @@
                 "open_issues": 38,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -3998,7 +3998,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2932,
+                "stars": 2933,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4213,7 +4213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:25:32.448Z",
+    "last_updated": "2026-09-18T10:02:33.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
