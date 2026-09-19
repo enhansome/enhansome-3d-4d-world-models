@@ -58,7 +58,7 @@
                 "open_issues": 74,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1782,
+                "stars": 1783,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -276,7 +276,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1104,
+                "stars": 1105,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -858,7 +858,7 @@
                 "open_issues": 3,
                 "owner": "vita-epfl",
                 "repo": "GEM",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -931,7 +931,7 @@
                 "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "autonomous-driving",
                   "mobile-robots",
@@ -1142,7 +1142,7 @@
                 "open_issues": 3,
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "3d",
                   "generative-ai",
@@ -1282,7 +1282,7 @@
                     "open_issues": 714,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23904,
+                    "stars": 23912,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1649,7 +1649,7 @@
                     "open_issues": 3,
                     "owner": "nv-tlabs",
                     "repo": "InfiniCube",
-                    "stars": 140,
+                    "stars": 141,
                     "topics": [
                       "3d",
                       "generative-ai",
@@ -1821,7 +1821,7 @@
                     "open_issues": 47,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1104,
+                    "stars": 1105,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2073,7 +2073,7 @@
                 "open_issues": 3,
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "3d",
                   "generative-ai",
@@ -2298,7 +2298,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-12T19:40:02Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "gusongen",
                 "repo": "DOME",
                 "stars": 70,
@@ -2343,7 +2343,7 @@
                 "open_issues": 5,
                 "owner": "zuosc19",
                 "repo": "GaussianWorld",
-                "stars": 173,
+                "stars": 174,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2714,7 +2714,7 @@
                 "open_issues": 3,
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "3d",
                   "generative-ai",
@@ -3998,7 +3998,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2933,
+                "stars": 2935,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4213,7 +4213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T10:02:33.905Z",
+    "last_updated": "2026-09-19T09:43:05.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
