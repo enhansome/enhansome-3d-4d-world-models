@@ -55,10 +55,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-21T15:28:08Z",
-                "open_issues": 74,
+                "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1792,
+                "stars": 1793,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -211,7 +211,7 @@
                 "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805,
+                "stars": 806,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -276,7 +276,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1109,
+                "stars": 1110,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -629,7 +629,7 @@
                 "open_issues": 2,
                 "owner": "CVL-UESTC",
                 "repo": "PerLDiff",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "3d-annotation",
                   "autonomous-driving",
@@ -773,7 +773,7 @@
                 "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805,
+                "stars": 806,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -829,7 +829,7 @@
                 "open_issues": 5,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 246,
+                "stars": 245,
                 "topics": [
                   "autonomous-driving",
                   "driving-world-model",
@@ -987,6 +987,27 @@
                 ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DriveVA",
+              "description": "DriveVA: Video Action Models are Zero-Shot Drivers ECCV 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2026] Official code of \"DriveVA: Video action models are zero-shot drivers\"",
+                "homepage": null,
+                "id": 1284776948,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-21T16:23:28Z",
+                "open_issues": 2,
+                "owner": "xiaomi-mlab",
+                "repo": "DriveVA",
+                "stars": 61,
+                "topics": []
+              },
+              "first_seen": "2026-09-24T10:30:35.143Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -1079,7 +1100,7 @@
                 "open_issues": 1,
                 "owner": "yanty123",
                 "repo": "DrivingSphere",
-                "stars": 78,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1234,7 +1255,7 @@
                 "open_issues": 1,
                 "owner": "Pixtella",
                 "repo": "Challenger",
-                "stars": 153,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1282,7 +1303,7 @@
                     "open_issues": 713,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23955,
+                    "stars": 23968,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1307,7 +1328,7 @@
                     "open_issues": 61,
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
-                    "stars": 1403,
+                    "stars": 1404,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1423,7 +1444,7 @@
                     "open_issues": 34,
                     "owner": "nnanhuang",
                     "repo": "S3Gaussian",
-                    "stars": 546,
+                    "stars": 547,
                     "topics": [
                       "3d",
                       "3dgs",
@@ -1821,7 +1842,7 @@
                     "open_issues": 47,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1109,
+                    "stars": 1110,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -1916,7 +1937,7 @@
                     "open_issues": 0,
                     "owner": "TencentARC",
                     "repo": "MotionCrafter",
-                    "stars": 185,
+                    "stars": 186,
                     "topics": [
                       "3d-reconstruction",
                       "4d-reconstruction",
@@ -2031,7 +2052,7 @@
                 "open_issues": 1,
                 "owner": "yanty123",
                 "repo": "DrivingSphere",
-                "stars": 78,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2231,7 +2252,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 587,
+                "stars": 588,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2280,7 +2301,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 208,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2322,7 +2343,7 @@
                 "open_issues": 4,
                 "owner": "wzzheng",
                 "repo": "GaussianAD",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2343,7 +2364,7 @@
                 "open_issues": 5,
                 "owner": "zuosc19",
                 "repo": "GaussianWorld",
-                "stars": 174,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2500,7 +2521,7 @@
                 "open_issues": 5,
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 377,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2647,7 +2668,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 208,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2668,7 +2689,7 @@
                 "open_issues": 2,
                 "owner": "3DTopia",
                 "repo": "DynamicCity",
-                "stars": 250,
+                "stars": 249,
                 "topics": [
                   "4d-generation",
                   "autonomous-driving",
@@ -2693,7 +2714,7 @@
                 "open_issues": 1,
                 "owner": "yanty123",
                 "repo": "DrivingSphere",
-                "stars": 78,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3598,7 +3619,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 208,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3770,7 +3791,7 @@
                 "open_issues": 16,
                 "owner": "vlmaps",
                 "repo": "vlmaps",
-                "stars": 724,
+                "stars": 727,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3861,7 +3882,7 @@
                 "open_issues": 47,
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "ai2-thor",
                   "computer-vision",
@@ -3998,7 +4019,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2936,
+                "stars": 2935,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4125,7 +4146,7 @@
                 "open_issues": 2,
                 "owner": "3DTopia",
                 "repo": "DynamicCity",
-                "stars": 250,
+                "stars": 249,
                 "topics": [
                   "4d-generation",
                   "autonomous-driving",
@@ -4192,7 +4213,7 @@
                 "open_issues": 1,
                 "owner": "hzxie",
                 "repo": "GaussianCity",
-                "stars": 339,
+                "stars": 340,
                 "topics": [
                   "3d-aigc",
                   "3d-generation",
@@ -4213,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:16:42.345Z",
+    "last_updated": "2026-09-24T10:30:35.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4221,8 +4242,8 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-09-01T00:23:17Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-24T04:26:10Z",
+      "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
       "stars": 988,
@@ -4241,7 +4262,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "52192f45180c7b79d6c9783a151c052b36c81e3d",
+    "original_repository_sha": "41ba0a8ef13fdfa56d28a8ffb34a2f3aa236bc12",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
