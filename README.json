@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1793,
+                "stars": 1794,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -608,7 +608,7 @@
                 "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 616,
+                "stars": 617,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -657,7 +657,7 @@
                 "open_issues": 0,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -1209,7 +1209,7 @@
                 "open_issues": 1,
                 "owner": "dk-liang",
                 "repo": "UniFuture",
-                "stars": 165,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1303,7 +1303,7 @@
                     "open_issues": 713,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23968,
+                    "stars": 23971,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1539,7 +1539,7 @@
                     "open_issues": 55,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1263,
+                    "stars": 1262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1581,7 +1581,7 @@
                     "open_issues": 19,
                     "owner": "chengweialan",
                     "repo": "DeSiRe-GS",
-                    "stars": 247,
+                    "stars": 248,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1737,7 +1737,7 @@
                     "open_issues": 1,
                     "owner": "dk-liang",
                     "repo": "UniFuture",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2073,7 +2073,7 @@
                 "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 616,
+                "stars": 617,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3138,7 +3138,7 @@
                 "open_issues": 0,
                 "owner": "vzyrianov",
                 "repo": "LidarDM",
-                "stars": 188,
+                "stars": 187,
                 "topics": [
                   "lidar-generation"
                 ]
@@ -3523,7 +3523,7 @@
                 "open_issues": 0,
                 "owner": "vzyrianov",
                 "repo": "LidarDM",
-                "stars": 188,
+                "stars": 187,
                 "topics": [
                   "lidar-generation"
                 ]
@@ -4019,7 +4019,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2935,
+                "stars": 2936,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:30:35.143Z",
+    "last_updated": "2026-09-25T10:33:23.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4246,7 +4246,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 988,
+      "stars": 989,
       "topics": [
         "3d",
         "3d-generation",
