@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1794,
+                "stars": 1795,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -276,7 +276,7 @@
                 "open_issues": 47,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1110,
+                "stars": 1111,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -608,7 +608,7 @@
                 "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 617,
+                "stars": 618,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -682,7 +682,7 @@
                 "open_issues": 23,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 826,
+                "stars": 827,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1188,7 +1188,7 @@
                 "open_issues": 10,
                 "owner": "royalmelon0505",
                 "repo": "dist4d",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1303,7 +1303,7 @@
                     "open_issues": 713,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23971,
+                    "stars": 23976,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1581,7 +1581,7 @@
                     "open_issues": 19,
                     "owner": "chengweialan",
                     "repo": "DeSiRe-GS",
-                    "stars": 248,
+                    "stars": 247,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1695,7 +1695,7 @@
                     "open_issues": 10,
                     "owner": "royalmelon0505",
                     "repo": "dist4d",
-                    "stars": 207,
+                    "stars": 206,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1842,7 +1842,7 @@
                     "open_issues": 47,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1110,
+                    "stars": 1111,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -1867,7 +1867,7 @@
                     "open_issues": 1,
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 124,
+                    "stars": 125,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -2073,7 +2073,7 @@
                 "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 617,
+                "stars": 618,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4019,7 +4019,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2936,
+                "stars": 2935,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:33:23.603Z",
+    "last_updated": "2026-09-26T10:15:28.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
