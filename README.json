@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1795,
+                "stars": 1796,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -335,7 +335,7 @@
                 "open_issues": 8,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1170,
+                "stars": 1169,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -1303,7 +1303,7 @@
                     "open_issues": 713,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 23976,
+                    "stars": 23986,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1539,7 +1539,7 @@
                     "open_issues": 55,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1262,
+                    "stars": 1263,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2161,7 +2161,7 @@
                 "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2364,7 +2364,7 @@
                 "open_issues": 5,
                 "owner": "zuosc19",
                 "repo": "GaussianWorld",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2567,7 +2567,7 @@
                 "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3763,7 +3763,7 @@
                 "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T10:15:28.399Z",
+    "last_updated": "2026-09-27T10:44:10.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4246,7 +4246,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 989,
+      "stars": 990,
       "topics": [
         "3d",
         "3d-generation",
