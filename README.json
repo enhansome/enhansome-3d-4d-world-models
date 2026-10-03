@@ -276,7 +276,7 @@
                 "open_issues": 49,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1116,
+                "stars": 1117,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1303,7 +1303,7 @@
                     "open_issues": 716,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24069,
+                    "stars": 24072,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1842,7 +1842,7 @@
                     "open_issues": 49,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1116,
+                    "stars": 1117,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:20:55.487Z",
+    "last_updated": "2026-10-03T10:36:29.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
