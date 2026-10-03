@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "WorldLens",
-              "description": null,
+              "description": "worldbench/WorldLens",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -45,7 +45,7 @@
             {
               "node_type": "item",
               "title": "VBench",
-              "description": null,
+              "description": "Vchitect/VBench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -75,7 +75,7 @@
             {
               "node_type": "item",
               "title": "WorldScore",
-              "description": null,
+              "description": "haoyi-duan/WorldScore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,7 +931,7 @@
                 "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 171,
+                "stars": 170,
                 "topics": [
                   "autonomous-driving",
                   "mobile-robots",
@@ -1230,7 +1230,7 @@
                 "open_issues": 3,
                 "owner": "OpenDriveLab",
                 "repo": "Nexus",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "diffusion-models",
                   "scene-generation",
@@ -1300,10 +1300,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-10-17T14:28:15Z",
-                    "open_issues": 714,
+                    "open_issues": 716,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24066,
+                    "stars": 24069,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -2364,7 +2364,7 @@
                 "open_issues": 5,
                 "owner": "zuosc19",
                 "repo": "GaussianWorld",
-                "stars": 177,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3998,7 +3998,7 @@
                 "open_issues": 18,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 742,
+                "stars": 743,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4019,7 +4019,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2939,
+                "stars": 2940,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:20:53.760Z",
+    "last_updated": "2026-10-03T04:20:55.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4246,7 +4246,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 993,
+      "stars": 992,
       "topics": [
         "3d",
         "3d-generation",
