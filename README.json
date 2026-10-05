@@ -88,7 +88,7 @@
                 "open_issues": 11,
                 "owner": "haoyi-duan",
                 "repo": "WorldScore",
-                "stars": 315,
+                "stars": 316,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -211,7 +211,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -335,7 +335,7 @@
                 "open_issues": 8,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1168,
+                "stars": 1167,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -657,7 +657,7 @@
                 "open_issues": 0,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 177,
+                "stars": 176,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -731,7 +731,7 @@
                 "open_issues": 8,
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 440,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -752,7 +752,7 @@
                 "open_issues": 24,
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 596,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -773,7 +773,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -804,7 +804,7 @@
                 "open_issues": 23,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 905,
+                "stars": 904,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -905,7 +905,7 @@
                 "open_issues": 7,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 389,
+                "stars": 390,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1276,7 +1276,7 @@
                 "open_issues": 29,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 544,
+                "stars": 545,
                 "topics": [
                   "autonomous-driving",
                   "generation",
@@ -1303,7 +1303,7 @@
                     "open_issues": 716,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24085,
+                    "stars": 24105,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1628,7 +1628,7 @@
                     "open_issues": 12,
                     "owner": "GigaAI-research",
                     "repo": "ReconDreamer",
-                    "stars": 228,
+                    "stars": 227,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1649,7 +1649,7 @@
                     "open_issues": 19,
                     "owner": "zju3dv",
                     "repo": "street_crafter",
-                    "stars": 335,
+                    "stars": 336,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1937,7 +1937,7 @@
                     "open_issues": 0,
                     "owner": "TencentARC",
                     "repo": "MotionCrafter",
-                    "stars": 187,
+                    "stars": 188,
                     "topics": [
                       "3d-reconstruction",
                       "4d-reconstruction",
@@ -2252,7 +2252,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 590,
+                "stars": 589,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2301,7 +2301,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2343,7 +2343,7 @@
                 "open_issues": 4,
                 "owner": "wzzheng",
                 "repo": "GaussianAD",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2668,7 +2668,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3619,7 +3619,7 @@
                 "open_issues": 10,
                 "owner": "wzzheng",
                 "repo": "OccSora",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3791,7 +3791,7 @@
                 "open_issues": 16,
                 "owner": "vlmaps",
                 "repo": "vlmaps",
-                "stars": 728,
+                "stars": 729,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:16:30.992Z",
+    "last_updated": "2026-10-05T12:38:29.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
