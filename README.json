@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "worldbench",
                 "repo": "WorldLens",
-                "stars": 253,
+                "stars": 254,
                 "topics": [
                   "3d",
                   "4d",
@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1805,
+                "stars": 1807,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -657,7 +657,7 @@
                 "open_issues": 0,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -804,7 +804,7 @@
                 "open_issues": 23,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 904,
+                "stars": 905,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -1303,7 +1303,7 @@
                     "open_issues": 716,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24105,
+                    "stars": 24113,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1867,7 +1867,7 @@
                     "open_issues": 1,
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -1895,7 +1895,7 @@
                     "open_issues": 1,
                     "owner": "ZheningHuang",
                     "repo": "SpaceTimePilot",
-                    "stars": 127,
+                    "stars": 128,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3812,7 +3812,7 @@
                 "open_issues": 3,
                 "owner": "robotics-survey",
                 "repo": "Awesome-Robotics-Foundation-Models",
-                "stars": 1414,
+                "stars": 1415,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3998,7 +3998,7 @@
                 "open_issues": 18,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 742,
+                "stars": 743,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4019,7 +4019,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2940,
+                "stars": 2939,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4234,7 +4234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:38:29.196Z",
+    "last_updated": "2026-10-06T10:13:20.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4242,7 +4242,7 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-09-24T04:26:10Z",
+      "last_commit": "2026-10-06T00:34:22Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
@@ -4262,7 +4262,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "41ba0a8ef13fdfa56d28a8ffb34a2f3aa236bc12",
+    "original_repository_sha": "555a726998dc11c895a3019cadd47d50d8cd7dfb",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
