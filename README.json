@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -96,6 +96,35 @@
                 ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OccStress: Stress-Testing the 4D Occupancy Forecasting Chain",
+              "description": "(NeurIPS 2026): a robustness benchmark for occupancy forecasting under upstream perception errors and controlled occupancy-state corruptions. [Code] [Dataset] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] Official implementations, benchmark tools, and evaluation protocols of \"OccStress: Stress-Testing the 4D Occupancy Forecasting Chain\".",
+                "homepage": "https://insailab.org/OccStress",
+                "id": 1405367816,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-06T19:08:10Z",
+                "open_issues": 0,
+                "owner": "InSAI-Lab",
+                "repo": "OccStress",
+                "stars": 2,
+                "topics": [
+                  "autonomous-driving",
+                  "benchmark",
+                  "neurips2026",
+                  "occupancy-forecasting",
+                  "occupancy-prediction",
+                  "robustness",
+                  "world-model"
+                ]
+              },
+              "first_seen": "2026-10-10T11:22:04.896Z"
             }
           ],
           "description": null,
@@ -335,7 +364,7 @@
                 "open_issues": 8,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1168,
+                "stars": 1165,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -974,7 +1003,7 @@
                 "id": 995174411,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-06-03T09:46:37Z",
+                "last_commit": "2026-10-10T02:12:57Z",
                 "open_issues": 2,
                 "owner": "Wang-Xiaodong1899",
                 "repo": "Long-DWM",
@@ -1000,7 +1029,7 @@
                 "id": 1284776948,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T16:23:28Z",
+                "last_commit": "2026-10-09T12:36:09Z",
                 "open_issues": 2,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
@@ -1032,7 +1061,7 @@
                 "open_issues": 1,
                 "owner": "flymin",
                 "repo": "MagicDrive3D",
-                "stars": 297,
+                "stars": 296,
                 "topics": [
                   "3d",
                   "autonomous-driving",
@@ -1276,7 +1305,7 @@
                 "open_issues": 29,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 547,
+                "stars": 549,
                 "topics": [
                   "autonomous-driving",
                   "generation",
@@ -1303,7 +1332,7 @@
                     "open_issues": 717,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24150,
+                    "stars": 24162,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1418,7 +1447,7 @@
                     "open_issues": 1,
                     "owner": "flymin",
                     "repo": "MagicDrive3D",
-                    "stars": 297,
+                    "stars": 296,
                     "topics": [
                       "3d",
                       "autonomous-driving",
@@ -2252,7 +2281,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2273,7 +2302,7 @@
                 "open_issues": 12,
                 "owner": "haomo-ai",
                 "repo": "Cam4DOcc",
-                "stars": 293,
+                "stars": 298,
                 "topics": [
                   "3d-occupancy",
                   "3d-occupancy-prediction",
@@ -4019,7 +4048,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2943,
+                "stars": 2944,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4234,7 +4263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T12:05:37.450Z",
+    "last_updated": "2026-10-10T11:22:04.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4242,11 +4271,11 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-06T00:34:22Z",
+      "last_commit": "2026-10-10T09:08:44Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 995,
+      "stars": 996,
       "topics": [
         "3d",
         "3d-generation",
@@ -4262,7 +4291,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "555a726998dc11c895a3019cadd47d50d8cd7dfb",
+    "original_repository_sha": "f4105d2413aaf3d873dc94ae3c9bc5bd83e6be4b",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
