@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -88,7 +88,7 @@
                 "open_issues": 11,
                 "owner": "haoyi-duan",
                 "repo": "WorldScore",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -240,7 +240,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -305,7 +305,7 @@
                 "open_issues": 49,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1119,
+                "stars": 1122,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -460,7 +460,7 @@
                 "open_issues": 2,
                 "owner": "westlake-autolab",
                 "repo": "Delphi",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -574,7 +574,7 @@
                 "open_issues": 25,
                 "owner": "f1yfisher",
                 "repo": "DriveDreamer2",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -746,6 +746,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "depthworld",
+              "description": "DepthWorld: 3D World Model for Robot Manipulation CoRL 2026 Project Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Repository for the paper: DepthWorld: 3D World Model for Robot Manipulation | CORL 2026",
+                "homepage": "https://jaibardhan.com/depthworld/",
+                "id": 1303361837,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-09T13:10:21Z",
+                "open_issues": 0,
+                "owner": "Jai2500",
+                "repo": "depthworld",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-11T11:35:54.572Z"
+            },
+            {
+              "node_type": "item",
               "title": "Drive-WM",
               "description": "Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving CVPR 2024",
               "children": [],
@@ -781,7 +802,7 @@
                 "open_issues": 24,
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 595,
+                "stars": 597,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -802,7 +823,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -1033,7 +1054,7 @@
                 "open_issues": 2,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 63,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-09-24T10:30:35.143Z"
@@ -1045,6 +1066,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Repo (release pending)",
+              "description": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling arXiv 2026 Project Repo (release pending)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://cvlab-kaist.github.io/world-observer/",
+                "id": 1397232132,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-10-02T02:28:57Z",
+                "open_issues": 1,
+                "owner": "cvlab-kaist",
+                "repo": "world-observer",
+                "stars": 31,
+                "topics": []
+              },
+              "first_seen": "2026-10-11T11:35:54.572Z"
+            },
             {
               "node_type": "item",
               "title": "MagicDrive3D",
@@ -1332,7 +1374,7 @@
                     "open_issues": 717,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24162,
+                    "stars": 24165,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1631,7 +1673,7 @@
                     "open_issues": 13,
                     "owner": "carlinds",
                     "repo": "splatad",
-                    "stars": 428,
+                    "stars": 429,
                     "topics": [
                       "3d-reconstruction",
                       "autonomous-driving",
@@ -1829,7 +1871,7 @@
                     "open_issues": 3,
                     "owner": "fudan-zvg",
                     "repo": "RealEngine",
-                    "stars": 50,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1871,7 +1913,7 @@
                     "open_issues": 49,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1119,
+                    "stars": 1122,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2281,7 +2323,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 590,
+                "stars": 591,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2351,7 +2393,7 @@
                 "open_issues": 4,
                 "owner": "gusongen",
                 "repo": "DOME",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2414,7 +2456,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2571,7 +2613,7 @@
                 "open_issues": 5,
                 "owner": "MSunDYY",
                 "repo": "SparseOccVLA",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "autonomous-driving",
                   "occupancy",
@@ -2944,7 +2986,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -3083,7 +3125,7 @@
                 "open_issues": 9,
                 "owner": "zympsyche",
                 "repo": "BevWorld",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3474,7 +3516,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -3500,7 +3542,7 @@
                 "open_issues": 9,
                 "owner": "zympsyche",
                 "repo": "BevWorld",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3729,7 +3771,7 @@
                 "open_issues": 2,
                 "owner": "westlake-autolab",
                 "repo": "Delphi",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3750,7 +3792,7 @@
                 "open_issues": 25,
                 "owner": "f1yfisher",
                 "repo": "DriveDreamer2",
-                "stars": 270,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4263,7 +4305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:22:04.896Z",
+    "last_updated": "2026-10-11T11:35:54.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4271,7 +4313,7 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-10T09:08:44Z",
+      "last_commit": "2026-10-11T01:53:33Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
@@ -4291,7 +4333,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "f4105d2413aaf3d873dc94ae3c9bc5bd83e6be4b",
+    "original_repository_sha": "5add3b3cf258722c70f02460520d7a729ef1ae4b",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
