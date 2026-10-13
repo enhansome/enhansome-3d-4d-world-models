@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1813,
+                "stars": 1817,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -305,7 +305,7 @@
                 "open_issues": 49,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1123,
+                "stars": 1125,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -760,7 +760,7 @@
                 "open_issues": 0,
                 "owner": "Jai2500",
                 "repo": "depthworld",
-                "stars": 2,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-10-11T11:35:54.572Z"
@@ -1082,7 +1082,7 @@
                 "open_issues": 2,
                 "owner": "cvlab-kaist",
                 "repo": "world-observer",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-10-11T11:35:54.572Z"
@@ -1347,7 +1347,7 @@
                 "open_issues": 29,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 549,
+                "stars": 550,
                 "topics": [
                   "autonomous-driving",
                   "generation",
@@ -1374,7 +1374,7 @@
                     "open_issues": 717,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24180,
+                    "stars": 24185,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1610,7 +1610,7 @@
                     "open_issues": 55,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1273,
+                    "stars": 1274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1913,7 +1913,7 @@
                     "open_issues": 49,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1123,
+                    "stars": 1125,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2344,7 +2344,7 @@
                 "open_issues": 12,
                 "owner": "haomo-ai",
                 "repo": "Cam4DOcc",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "3d-occupancy",
                   "3d-occupancy-prediction",
@@ -2456,7 +2456,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2522,7 +2522,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-06T06:44:45Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "tasl-lab",
                 "repo": "UniOcc",
                 "stars": 228,
@@ -3953,7 +3953,7 @@
                 "open_issues": 47,
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "ai2-thor",
                   "computer-vision",
@@ -4090,7 +4090,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2944,
+                "stars": 2946,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4305,7 +4305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T13:31:05.253Z",
+    "last_updated": "2026-10-13T12:56:27.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
