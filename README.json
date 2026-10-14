@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1817,
+                "stars": 1819,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -302,10 +302,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-27T21:19:43Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1125,
+                "stars": 1127,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -637,7 +637,7 @@
                 "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 618,
+                "stars": 619,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1054,7 +1054,7 @@
                 "open_issues": 2,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 65,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-09-24T10:30:35.143Z"
@@ -1082,7 +1082,7 @@
                 "open_issues": 2,
                 "owner": "cvlab-kaist",
                 "repo": "world-observer",
-                "stars": 32,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-10-11T11:35:54.572Z"
@@ -1374,7 +1374,7 @@
                     "open_issues": 717,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24185,
+                    "stars": 24195,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1631,7 +1631,7 @@
                     "open_issues": 15,
                     "owner": "GigaAI-research",
                     "repo": "DriveDreamer4D",
-                    "stars": 330,
+                    "stars": 331,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1910,10 +1910,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-10-27T21:19:43Z",
-                    "open_issues": 49,
+                    "open_issues": 50,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1125,
+                    "stars": 1127,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2144,7 +2144,7 @@
                 "open_issues": 19,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 618,
+                "stars": 619,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2190,7 +2190,7 @@
                 "open_issues": 1,
                 "owner": "yuhengliu02",
                 "repo": "control-3d-scene",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3475,7 +3475,7 @@
                 "open_issues": 4,
                 "owner": "worldbench",
                 "repo": "LiDARCrafter",
-                "stars": 204,
+                "stars": 206,
                 "topics": [
                   "3d-generation",
                   "3d-object-detection",
@@ -3643,7 +3643,7 @@
                 "open_issues": 4,
                 "owner": "worldbench",
                 "repo": "LiDARCrafter",
-                "stars": 204,
+                "stars": 206,
                 "topics": [
                   "3d-generation",
                   "3d-object-detection",
@@ -3711,7 +3711,7 @@
                 "open_issues": 4,
                 "owner": "worldbench",
                 "repo": "LiDARCrafter",
-                "stars": 204,
+                "stars": 206,
                 "topics": [
                   "3d-generation",
                   "3d-object-detection",
@@ -4001,7 +4001,7 @@
                 "open_issues": 0,
                 "owner": "mschneider456",
                 "repo": "worldexplorer",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "3d-gaussian-splatting",
                   "scene-generation",
@@ -4069,7 +4069,7 @@
                 "open_issues": 18,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 743,
+                "stars": 750,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4090,7 +4090,7 @@
                 "open_issues": 35,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2946,
+                "stars": 2947,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4305,7 +4305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:56:27.490Z",
+    "last_updated": "2026-10-14T10:36:06.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
