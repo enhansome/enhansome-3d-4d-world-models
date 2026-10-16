@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1822,
+                "stars": 1825,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -305,7 +305,7 @@
                 "open_issues": 51,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1128,
+                "stars": 1130,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -574,7 +574,7 @@
                 "open_issues": 26,
                 "owner": "f1yfisher",
                 "repo": "DriveDreamer2",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -707,11 +707,11 @@
                 "id": 941557915,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-07T17:21:25Z",
+                "last_commit": "2026-10-15T21:30:46Z",
                 "open_issues": 24,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 827,
+                "stars": 828,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -764,6 +764,40 @@
                 "topics": []
               },
               "first_seen": "2026-10-11T11:35:54.572Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ForgeWM",
+              "description": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models arXiv 2026 Project Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Train a real-time, playable Video World Models on 8 GPUs — keyboard & mouse control & gamepad, fully open and reproducible.",
+                "homepage": "https://asdfo123.github.io/ForgeWM/",
+                "id": 1252983492,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-19T12:03:38Z",
+                "open_issues": 3,
+                "owner": "asdfo123",
+                "repo": "ForgeWM",
+                "stars": 117,
+                "topics": [
+                  "action-conditioned",
+                  "causal-forcing",
+                  "diffusion-models",
+                  "distillation",
+                  "interactive-video",
+                  "matrix-game",
+                  "minecraft",
+                  "real-time",
+                  "video-diffusion",
+                  "video-generation",
+                  "wan2-1",
+                  "world-model"
+                ]
+              },
+              "first_seen": "2026-10-16T10:05:51.134Z"
             },
             {
               "node_type": "item",
@@ -1089,6 +1123,30 @@
             },
             {
               "node_type": "item",
+              "title": "WorldCrafter",
+              "description": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[Arxiv 2026] WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+                "homepage": "https://drexubery.github.io/WorldCrafter/",
+                "id": 1369624742,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-15T11:55:45Z",
+                "open_issues": 4,
+                "owner": "TencentARC",
+                "repo": "WorldCrafter",
+                "stars": 511,
+                "topics": [
+                  "video-generation",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-16T10:05:51.134Z"
+            },
+            {
+              "node_type": "item",
               "title": "MagicDrive3D",
               "description": "MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes arXiv 2024",
               "children": [],
@@ -1301,7 +1359,7 @@
                 "open_issues": 4,
                 "owner": "OpenDriveLab",
                 "repo": "Nexus",
-                "stars": 126,
+                "stars": 125,
                 "topics": [
                   "diffusion-models",
                   "scene-generation",
@@ -1374,7 +1432,7 @@
                     "open_issues": 718,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24202,
+                    "stars": 24220,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1468,7 +1526,7 @@
                     "open_issues": 2,
                     "owner": "hyzhou404",
                     "repo": "HUGS",
-                    "stars": 190,
+                    "stars": 191,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1589,7 +1647,7 @@
                     "open_issues": 1,
                     "owner": "EnVision-Research",
                     "repo": "DriveRecon",
-                    "stars": 193,
+                    "stars": 194,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1607,10 +1665,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-08-27T08:42:40Z",
-                    "open_issues": 56,
+                    "open_issues": 57,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1274,
+                    "stars": 1275,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1673,7 +1731,7 @@
                     "open_issues": 13,
                     "owner": "carlinds",
                     "repo": "splatad",
-                    "stars": 429,
+                    "stars": 431,
                     "topics": [
                       "3d-reconstruction",
                       "autonomous-driving",
@@ -1913,7 +1971,7 @@
                     "open_issues": 51,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1128,
+                    "stars": 1130,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2488,7 +2546,7 @@
             {
               "node_type": "item",
               "title": "OccProphet",
-              "description": "OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework ICLR 2025 -",
+              "description": "OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework ICLR 2025",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3167,7 +3225,7 @@
                 "open_issues": 2,
                 "owner": "yanty123",
                 "repo": "OLiDM",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3295,7 +3353,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-25T10:42:53Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "astra-vision",
                 "repo": "LiDPM",
                 "stars": 88,
@@ -3792,7 +3850,7 @@
                 "open_issues": 26,
                 "owner": "f1yfisher",
                 "repo": "DriveDreamer2",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3953,7 +4011,7 @@
                 "open_issues": 48,
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "ai2-thor",
                   "computer-vision",
@@ -4069,7 +4127,7 @@
                 "open_issues": 19,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 755,
+                "stars": 759,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4090,7 +4148,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2948,
+                "stars": 2949,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4305,7 +4363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:17:35.712Z",
+    "last_updated": "2026-10-16T10:05:51.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4313,11 +4371,11 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-11T01:53:33Z",
+      "last_commit": "2026-10-16T05:00:53Z",
       "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1000,
+      "stars": 1002,
       "topics": [
         "3d",
         "3d-generation",
@@ -4333,7 +4391,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "5add3b3cf258722c70f02460520d7a729ef1ae4b",
+    "original_repository_sha": "210ea2e1b4607ca3dd3a5a415ad0ae9b6521a585",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
