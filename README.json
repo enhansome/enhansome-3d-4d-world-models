@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1825,
+                "stars": 1826,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -96,6 +96,67 @@
                 ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WorldScore: A Unified Evaluation Benchmark for World Generation",
+              "description": "(ICCV 2025): a unified evaluation benchmark for 3D-, 4D-, and video-based world generation models. [Code] [Dataset] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation for WorldScore: A Unified Evaluation Benchmark for World Generation",
+                "homepage": "https://haoyi-duan.github.io/WorldScore/",
+                "id": 958229916,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-23T08:27:31Z",
+                "open_issues": 12,
+                "owner": "haoyi-duan",
+                "repo": "WorldScore",
+                "stars": 320,
+                "topics": [
+                  "benchmark",
+                  "computer-vision",
+                  "world-generation"
+                ]
+              },
+              "first_seen": "2026-08-28T17:42:23.130Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Orbia: Do Generated Videos Form a Consistent 3D World?",
+              "description": "(arXiv 2026): an exploration-and-revisit benchmark separating input preservation, generated-content persistence, and 3D self-consistency. [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🔥 Orbia: Do Generated Videos Form a Consistent 3D World?",
+                "homepage": "https://orbia-bench.github.io",
+                "id": 1410385445,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-16T11:10:38Z",
+                "open_issues": 0,
+                "owner": "worldbench",
+                "repo": "Orbia",
+                "stars": 41,
+                "topics": [
+                  "3d",
+                  "3d-world-model",
+                  "4d",
+                  "aigc",
+                  "aigc-3d",
+                  "benchmark",
+                  "embodied-intelligence",
+                  "generation",
+                  "generative-ai",
+                  "generative-model",
+                  "video-generation",
+                  "video-world-model",
+                  "world-model",
+                  "world-modeling"
+                ]
+              },
+              "first_seen": "2026-10-17T09:39:59.233Z"
             },
             {
               "node_type": "item",
@@ -711,7 +772,7 @@
                 "open_issues": 24,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 828,
+                "stars": 829,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -744,6 +805,36 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "Data pipeline",
+              "description": "PAWA: Panoramic Action-conditioned World Modeling for Multiple Agents arXiv 2026  Data pipeline",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Data pipeline for PAWA: Panoramic Action-conditioned World Modeling for Multiple Agents. Dataset: https://huggingface.co/datasets/YOUSIKI/pawa-dataset",
+                "homepage": "https://pawa.siki.moe",
+                "id": 1392572462,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-14T02:28:23Z",
+                "open_issues": 0,
+                "owner": "yousiki",
+                "repo": "pawa-pipeline",
+                "stars": 1,
+                "topics": [
+                  "azalea",
+                  "dataset",
+                  "minecraft",
+                  "multi-agent",
+                  "panorama",
+                  "replaymod",
+                  "video-generation",
+                  "world-model"
+                ]
+              },
+              "first_seen": "2026-10-17T09:39:59.233Z"
+            },
             {
               "node_type": "item",
               "title": "depthworld",
@@ -989,7 +1080,7 @@
                 "open_issues": 8,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 390,
+                "stars": 391,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1085,10 +1176,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T12:36:09Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-09-24T10:30:35.143Z"
@@ -1100,6 +1191,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "GeoState",
+              "description": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+                "homepage": "https://hongchang-liu.github.io/GeoState-project-page/",
+                "id": 1418712085,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-16T02:14:09Z",
+                "open_issues": 1,
+                "owner": "Hongchang-Liu",
+                "repo": "GeoState",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-10-17T09:39:59.233Z"
+            },
             {
               "node_type": "item",
               "title": "Repo (release pending)",
@@ -1144,6 +1256,27 @@
                 ]
               },
               "first_seen": "2026-10-16T10:05:51.134Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SPVC",
+              "description": "SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering",
+                "homepage": null,
+                "id": 1336746318,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-14T14:03:29Z",
+                "open_issues": 1,
+                "owner": "Li00147",
+                "repo": "SPVC",
+                "stars": 110,
+                "topics": []
+              },
+              "first_seen": "2026-10-17T09:39:59.233Z"
             },
             {
               "node_type": "item",
@@ -1405,7 +1538,7 @@
                 "open_issues": 29,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "autonomous-driving",
                   "generation",
@@ -1416,6 +1549,27 @@
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "Repo (WIP)",
+                  "description": "Gen4P: Video Generators are 4D Perceivers arXiv 2026  Repo (WIP)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Gen4P: Video Generators are 4D Perceivers",
+                    "homepage": "https://gen4p.github.io/",
+                    "id": 1416653921,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-10-16T10:10:05Z",
+                    "open_issues": 1,
+                    "owner": "yitongx",
+                    "repo": "Gen4P",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T09:39:59.233Z"
+                },
                 {
                   "node_type": "item",
                   "title": "gaussian-splatting",
@@ -1432,7 +1586,7 @@
                     "open_issues": 718,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24220,
+                    "stars": 24229,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1499,7 +1653,7 @@
                     "open_issues": 16,
                     "owner": "nv-tlabs",
                     "repo": "SCube",
-                    "stars": 529,
+                    "stars": 530,
                     "topics": [
                       "3d-reconstruction",
                       "diffusion-models",
@@ -1668,7 +1822,7 @@
                     "open_issues": 57,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1275,
+                    "stars": 1274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2024,7 +2178,7 @@
                     "open_issues": 2,
                     "owner": "ZheningHuang",
                     "repo": "SpaceTimePilot",
-                    "stars": 128,
+                    "stars": 127,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3896,6 +4050,42 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VITAL",
+              "description": "VITAL: From Visual Motion to Precise Action arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🔥 VITAL: From Visual Motion to Precise Action",
+                "homepage": "https://worldbench.github.io/vital",
+                "id": 1414976993,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-14T14:08:41Z",
+                "open_issues": 1,
+                "owner": "worldbench",
+                "repo": "VITAL",
+                "stars": 10,
+                "topics": [
+                  "automative",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "closed-loop",
+                  "closed-loop-control",
+                  "closed-loop-simulation",
+                  "navsim",
+                  "self-driving",
+                  "vision-language",
+                  "vision-language-action",
+                  "vision-language-model",
+                  "world-action-model",
+                  "world-model",
+                  "world-modeling"
+                ]
+              },
+              "first_seen": "2026-10-17T09:39:59.233Z"
             }
           ],
           "description": null,
@@ -4148,7 +4338,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2949,
+                "stars": 2951,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4363,7 +4553,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:05:51.134Z",
+    "last_updated": "2026-10-17T09:39:59.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4371,11 +4561,11 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-16T05:00:53Z",
+      "last_commit": "2026-10-17T01:03:14Z",
       "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1002,
+      "stars": 1003,
       "topics": [
         "3d",
         "3d-generation",
@@ -4391,7 +4581,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "210ea2e1b4607ca3dd3a5a415ad0ae9b6521a585",
+    "original_repository_sha": "fcb5335d208ed96761f876e3513eabbde690fe08",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
