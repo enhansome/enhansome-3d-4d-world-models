@@ -138,7 +138,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "Orbia",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "3d",
                   "3d-world-model",
@@ -210,7 +210,7 @@
                 "open_issues": 34,
                 "owner": "princeton-computational-imaging",
                 "repo": "SeeingThroughFog",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -366,7 +366,7 @@
                 "open_issues": 51,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1130,
+                "stars": 1131,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -1207,7 +1207,7 @@
                 "open_issues": 1,
                 "owner": "Hongchang-Liu",
                 "repo": "GeoState",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1273,7 +1273,7 @@
                 "open_issues": 1,
                 "owner": "Li00147",
                 "repo": "SPVC",
-                "stars": 110,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1565,7 +1565,7 @@
                     "open_issues": 1,
                     "owner": "yitongx",
                     "repo": "Gen4P",
-                    "stars": 8,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1586,7 +1586,7 @@
                     "open_issues": 718,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24229,
+                    "stars": 24237,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -2125,7 +2125,7 @@
                     "open_issues": 51,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1130,
+                    "stars": 1131,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2647,7 +2647,7 @@
                 "open_issues": 6,
                 "owner": "zuosc19",
                 "repo": "GaussianWorld",
-                "stars": 179,
+                "stars": 180,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4067,7 +4067,7 @@
                 "open_issues": 1,
                 "owner": "worldbench",
                 "repo": "VITAL",
-                "stars": 10,
+                "stars": 12,
                 "topics": [
                   "automative",
                   "autonomous-driving",
@@ -4338,7 +4338,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2951,
+                "stars": 2952,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4553,7 +4553,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:39:59.233Z",
+    "last_updated": "2026-10-18T09:53:18.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4565,7 +4565,7 @@
       "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1003,
+      "stars": 1006,
       "topics": [
         "3d",
         "3d-generation",
