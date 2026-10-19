@@ -134,11 +134,11 @@
                 "id": 1410385445,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T11:10:38Z",
+                "last_commit": "2026-10-18T11:31:51Z",
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "Orbia",
-                "stars": 42,
+                "stars": 44,
                 "topics": [
                   "3d",
                   "3d-world-model",
@@ -210,7 +210,7 @@
                 "open_issues": 34,
                 "owner": "princeton-computational-imaging",
                 "repo": "SeeingThroughFog",
-                "stars": 387,
+                "stars": 386,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -366,7 +366,7 @@
                 "open_issues": 51,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1131,
+                "stars": 1132,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -698,7 +698,7 @@
                 "open_issues": 20,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 619,
+                "stars": 620,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -727,31 +727,6 @@
                   "diffusion-models",
                   "geometric-priors",
                   "iccv2025"
-                ]
-              },
-              "first_seen": "2026-08-28T17:42:23.130Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DINO-Foresight",
-              "description": "DINO-Foresight: Looking into the Future with DINO NeurIPS 2025",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] Official Implementation of DINO-Foresight: Looking into the Future with DINO",
-                "homepage": "https://neurips.cc/virtual/2025/loc/san-diego/poster/116713",
-                "id": 904606333,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-11-26T15:15:25Z",
-                "open_issues": 1,
-                "owner": "Sta8is",
-                "repo": "DINO-Foresight",
-                "stars": 177,
-                "topics": [
-                  "autonomous-driving",
-                  "future-prediction",
-                  "world-model"
                 ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1183,9 +1158,81 @@
                 "topics": []
               },
               "first_seen": "2026-09-24T10:30:35.143Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DINO-Foresight",
+              "description": "DINO-Foresight: Looking into the Future with DINO NeurIPS 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Official Implementation of DINO-Foresight: Looking into the Future with DINO",
+                "homepage": "https://neurips.cc/virtual/2025/loc/san-diego/poster/116713",
+                "id": 904606333,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-11-26T15:15:25Z",
+                "open_issues": 1,
+                "owner": "Sta8is",
+                "repo": "DINO-Foresight",
+                "stars": 177,
+                "topics": [
+                  "autonomous-driving",
+                  "future-prediction",
+                  "world-model"
+                ]
+              },
+              "first_seen": "2026-08-28T17:42:23.130Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Repo (release in progress)",
+              "description": "Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction ECCV 2026  Repo (release in progress)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2026] Official Implementation of Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction",
+                "homepage": null,
+                "id": 1184102341,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-06T14:06:34Z",
+                "open_issues": 3,
+                "owner": "Sta8is",
+                "repo": "Re2Pix",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-10-19T11:15:14.480Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Latent-Foresight",
+              "description": "Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models arXiv 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models",
+                "homepage": "https://arxiv.org/abs/2610.01942",
+                "id": 1399802719,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-05T08:48:16Z",
+                "open_issues": 0,
+                "owner": "Sta8is",
+                "repo": "Latent-Foresight",
+                "stars": 19,
+                "topics": [
+                  "autonomous-driving",
+                  "future-prediction",
+                  "latent-world-models",
+                  "physical-ai"
+                ]
+              },
+              "first_seen": "2026-10-19T11:15:14.480Z"
             }
           ],
-          "description": ":timer_clock: In chronological order, from the earliest to the latest.",
+          "description": ":timer_clock: In chronological order, from the earliest to the latest.\nRelated action-free forecasting (comparison only). The following methods forecast from observation histories without action inputs. They are cross-referenced alongside Action Interpreters; they do not satisfy the action-conditioned definition of that category.",
           "node_type": "group",
           "title": ":two: Action Interpreters"
         },
@@ -1207,7 +1254,7 @@
                 "open_issues": 1,
                 "owner": "Hongchang-Liu",
                 "repo": "GeoState",
-                "stars": 6,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1246,7 +1293,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-15T11:55:45Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "TencentARC",
                 "repo": "WorldCrafter",
                 "stars": 511,
@@ -1270,10 +1317,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T14:03:29Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "Li00147",
                 "repo": "SPVC",
-                "stars": 119,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1538,7 +1585,7 @@
                 "open_issues": 29,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "autonomous-driving",
                   "generation",
@@ -1565,7 +1612,7 @@
                     "open_issues": 1,
                     "owner": "yitongx",
                     "repo": "Gen4P",
-                    "stars": 15,
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1586,7 +1633,7 @@
                     "open_issues": 718,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24237,
+                    "stars": 24252,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1822,7 +1869,7 @@
                     "open_issues": 57,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1274,
+                    "stars": 1273,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1885,7 +1932,7 @@
                     "open_issues": 13,
                     "owner": "carlinds",
                     "repo": "splatad",
-                    "stars": 431,
+                    "stars": 432,
                     "topics": [
                       "3d-reconstruction",
                       "autonomous-driving",
@@ -2125,7 +2172,7 @@
                     "open_issues": 51,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1131,
+                    "stars": 1132,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2356,7 +2403,7 @@
                 "open_issues": 20,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 619,
+                "stars": 620,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2444,7 +2491,7 @@
                 "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2737,7 +2784,7 @@
                 "open_issues": 10,
                 "owner": "tasl-lab",
                 "repo": "UniOcc",
-                "stars": 228,
+                "stars": 229,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2850,7 +2897,7 @@
                 "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3510,7 +3557,7 @@
                 "open_issues": 0,
                 "owner": "astra-vision",
                 "repo": "LiDPM",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "diffusion",
                   "diffusion-model",
@@ -4046,7 +4093,7 @@
                 "open_issues": 2,
                 "owner": "Huster-YZY",
                 "repo": "GenieDrive",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4067,7 +4114,7 @@
                 "open_issues": 1,
                 "owner": "worldbench",
                 "repo": "VITAL",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "automative",
                   "autonomous-driving",
@@ -4131,7 +4178,7 @@
                 "open_issues": 3,
                 "owner": "robotics-survey",
                 "repo": "Awesome-Robotics-Foundation-Models",
-                "stars": 1422,
+                "stars": 1421,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4201,7 +4248,7 @@
                 "open_issues": 48,
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 476,
+                "stars": 478,
                 "topics": [
                   "ai2-thor",
                   "computer-vision",
@@ -4317,7 +4364,7 @@
                 "open_issues": 19,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 759,
+                "stars": 760,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4553,7 +4600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:53:18.688Z",
+    "last_updated": "2026-10-19T11:15:14.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4561,11 +4608,11 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-17T01:03:14Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-19T07:23:51Z",
+      "open_issues": 2,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1006,
+      "stars": 1010,
       "topics": [
         "3d",
         "3d-generation",
@@ -4581,7 +4628,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "fcb5335d208ed96761f876e3513eabbde690fe08",
+    "original_repository_sha": "ed1c33fe7681281d4a95510c1511ac0029e7a930",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
