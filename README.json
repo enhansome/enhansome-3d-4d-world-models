@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1826,
+                "stars": 1827,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -138,7 +138,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "Orbia",
-                "stars": 44,
+                "stars": 46,
                 "topics": [
                   "3d",
                   "3d-world-model",
@@ -902,7 +902,7 @@
                 "open_issues": 25,
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1175,7 +1175,7 @@
                 "open_issues": 1,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -1251,10 +1251,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-16T02:14:09Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Hongchang-Liu",
                 "repo": "GeoState",
-                "stars": 11,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1293,10 +1293,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-15T11:55:45Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "TencentARC",
                 "repo": "WorldCrafter",
-                "stars": 511,
+                "stars": 512,
                 "topics": [
                   "video-generation",
                   "world-models"
@@ -1595,6 +1595,32 @@
               "first_seen": "2026-08-28T17:42:23.130Z"
             },
             {
+              "node_type": "item",
+              "title": "EVA",
+              "description": "EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of \"EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards\"",
+                "homepage": "https://eva-project-page.github.io/",
+                "id": 1185118980,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-13T18:14:20Z",
+                "open_issues": 2,
+                "owner": "RobbinW",
+                "repo": "EVA",
+                "stars": 64,
+                "topics": [
+                  "embodied-ai",
+                  "video-generation",
+                  "world-model",
+                  "world-model-rl"
+                ]
+              },
+              "first_seen": "2026-10-20T10:24:33.408Z"
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -1612,10 +1638,31 @@
                     "open_issues": 1,
                     "owner": "yitongx",
                     "repo": "Gen4P",
-                    "stars": 23,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:39:59.233Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "UniQuery4R",
+                  "description": "UniQuery4R: Unified 4D Scene Reconstruction from a Single Query arXiv 2026 Model",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "UniQuery4R: Unified 4D Scene Reconstruction from a Single Query",
+                    "homepage": null,
+                    "id": 1373938447,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-17T10:01:22Z",
+                    "open_issues": 1,
+                    "owner": "KosmoResearch",
+                    "repo": "UniQuery4R",
+                    "stars": 23,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-20T10:24:33.408Z"
                 },
                 {
                   "node_type": "item",
@@ -1633,7 +1680,7 @@
                     "open_issues": 718,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24252,
+                    "stars": 24274,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1658,7 +1705,7 @@
                     "open_issues": 62,
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
-                    "stars": 1406,
+                    "stars": 1408,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1869,7 +1916,7 @@
                     "open_issues": 57,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1273,
+                    "stars": 1274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1932,7 +1979,7 @@
                     "open_issues": 13,
                     "owner": "carlinds",
                     "repo": "splatad",
-                    "stars": 432,
+                    "stars": 433,
                     "topics": [
                       "3d-reconstruction",
                       "autonomous-driving",
@@ -2088,7 +2135,7 @@
                     "open_issues": 1,
                     "owner": "cancaries",
                     "repo": "SceneCrafter",
-                    "stars": 40,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2197,7 +2244,7 @@
                     "open_issues": 2,
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 127,
+                    "stars": 128,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -2284,6 +2331,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Glob3R",
+                  "description": "Glob3R: Global Structure-from-Motion with 3D Foundation Models NeurIPS 2026",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[Nips2026] Official Repo of \"Glob3R: Global Structure-from-Motion with 3D Foundation Models\"",
+                    "homepage": null,
+                    "id": 1303487000,
+                    "language": "Python",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-10-13T10:03:31Z",
+                    "open_issues": 0,
+                    "owner": "aigc3d",
+                    "repo": "Glob3R",
+                    "stars": 266,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-20T10:24:33.408Z"
                 }
               ],
               "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -2561,7 +2629,7 @@
                 "open_issues": 5,
                 "owner": "chaytonmin",
                 "repo": "UniScene",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2805,7 +2873,7 @@
                 "open_issues": 4,
                 "owner": "synsin0",
                 "repo": "COME",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3271,7 +3339,7 @@
                 "open_issues": 1,
                 "owner": "PRBonn",
                 "repo": "LiDiff",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3292,7 +3360,7 @@
                 "open_issues": 17,
                 "owner": "hancyran",
                 "repo": "LiDAR-Diffusion",
-                "stars": 290,
+                "stars": 289,
                 "topics": [
                   "controllable-generation",
                   "diffusion-models",
@@ -3632,7 +3700,7 @@
             {
               "node_type": "item",
               "title": "3DiSS",
-              "description": "Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving arXiv 2025 -",
+              "description": "Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving TPAMI 2026 -",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4111,10 +4179,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-14T14:08:41Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "worldbench",
                 "repo": "VITAL",
-                "stars": 13,
+                "stars": 16,
                 "topics": [
                   "automative",
                   "autonomous-driving",
@@ -4143,6 +4211,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "UNITAS",
+              "description": "UNITAS: A 3D-Native World Action Model for Embodied Manipulation arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official codebase for Unitas: A 3D-Native World Action Model for Embodied Manipulation",
+                "homepage": "https://unitas-wam.github.io/",
+                "id": 1409774519,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-16T07:55:33Z",
+                "open_issues": 1,
+                "owner": "DexForce",
+                "repo": "UNITAS",
+                "stars": 88,
+                "topics": [
+                  "robot-learning",
+                  "robot-manipulation",
+                  "robotics",
+                  "vision-language-action-model",
+                  "world-action-models",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-20T10:24:33.408Z"
+            },
+            {
+              "node_type": "item",
               "title": "vlmaps",
               "description": "Visual Language Maps for Robot Navigation ICRA 2023",
               "children": [],
@@ -4157,7 +4253,7 @@
                 "open_issues": 16,
                 "owner": "vlmaps",
                 "repo": "vlmaps",
-                "stars": 729,
+                "stars": 730,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4178,7 +4274,7 @@
                 "open_issues": 3,
                 "owner": "robotics-survey",
                 "repo": "Awesome-Robotics-Foundation-Models",
-                "stars": 1421,
+                "stars": 1422,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4385,7 +4481,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2952,
+                "stars": 2954,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4600,7 +4696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T11:15:14.480Z",
+    "last_updated": "2026-10-20T10:24:33.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4608,11 +4704,11 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-19T07:23:51Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-20T00:25:53Z",
+      "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1010,
+      "stars": 1012,
       "topics": [
         "3d",
         "3d-generation",
@@ -4628,7 +4724,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "ed1c33fe7681281d4a95510c1511ac0029e7a930",
+    "original_repository_sha": "80f017f75b5718161ec1bc49587767e336988ff1",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
