@@ -58,7 +58,7 @@
                 "open_issues": 73,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1827,
+                "stars": 1828,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -138,7 +138,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "Orbia",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "3d",
                   "3d-world-model",
@@ -157,6 +157,54 @@
                 ]
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Execution Before Memory: Diagnosing Memory Failures in Video World Models",
+              "description": "(arXiv 2026): a diagnostic separating scene setup, requested-change execution, and delayed reveal in video world models. [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Execution Before Memory: diagnosing memory failures in video world models.",
+                "homepage": "https://hku-mmlab.github.io/MIST/",
+                "id": 1415306006,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-19T19:49:04Z",
+                "open_issues": 1,
+                "owner": "HKU-MMLab",
+                "repo": "MIST",
+                "stars": 12,
+                "topics": [
+                  "agentic",
+                  "benchmark",
+                  "video-generation",
+                  "video-understanding",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-21T10:34:46.955Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving",
+              "description": "(arXiv 2026): a camera-centric benchmark for semantic and panoptic occupancy prediction and 4D forecasting across CARLA, nuScenes, and KITTI-360, using persistent instance identities and a shared valid-mask protocol. Code pending; dataset upload in progress. [Code] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1422169962,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-19T16:00:16Z",
+                "open_issues": 1,
+                "owner": "fengyi233",
+                "repo": "PanoBench",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-10-21T10:34:46.955Z"
             },
             {
               "node_type": "item",
@@ -280,7 +328,7 @@
                 "open_issues": 27,
                 "owner": "JeffWang987",
                 "repo": "OpenOccupancy",
-                "stars": 748,
+                "stars": 749,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -881,7 +929,7 @@
                 "open_issues": 8,
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1055,7 +1103,7 @@
                 "open_issues": 8,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 391,
+                "stars": 392,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1221,7 +1269,7 @@
                 "open_issues": 0,
                 "owner": "Sta8is",
                 "repo": "Latent-Foresight",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -1240,6 +1288,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "StateWorldModel",
+              "description": "State World Models: Execute the Rules, Generate the Pixels arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "State World Models: Execute the Rules, Generate the Pixels",
+                "homepage": "https://ivg-yanranzhang.github.io/StateWorldModel/",
+                "id": 1394594424,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-20T10:06:51Z",
+                "open_issues": 1,
+                "owner": "Zhangyr2022",
+                "repo": "StateWorldModel",
+                "stars": 13,
+                "topics": [
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-21T10:34:46.955Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PPMem",
+              "description": "Persistent Planar Memory for Video World Models NeurIPS 2026 (accepted)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] Persistent Planar Memory for Video World Models",
+                "homepage": null,
+                "id": 1422066137,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-19T01:59:06Z",
+                "open_issues": 2,
+                "owner": "robbyant-research",
+                "repo": "PPMem",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-10-21T10:34:46.955Z"
+            },
+            {
+              "node_type": "item",
               "title": "GeoState",
               "description": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling arXiv 2026",
               "children": [],
@@ -1254,7 +1346,7 @@
                 "open_issues": 2,
                 "owner": "Hongchang-Liu",
                 "repo": "GeoState",
-                "stars": 13,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1293,10 +1385,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-15T11:55:45Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "TencentARC",
                 "repo": "WorldCrafter",
-                "stars": 512,
+                "stars": 513,
                 "topics": [
                   "video-generation",
                   "world-models"
@@ -1610,7 +1702,7 @@
                 "open_issues": 2,
                 "owner": "RobbinW",
                 "repo": "EVA",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "embodied-ai",
                   "video-generation",
@@ -1622,6 +1714,90 @@
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "AEON",
+                  "description": "AEON: Unifying Video and 3D World Models NeurIPS 2026 (accepted)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[NeurIPS'2026]: AEON: Unifying Video and 3D World Models",
+                    "homepage": null,
+                    "id": 1420327176,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-21T03:39:14Z",
+                    "open_issues": 1,
+                    "owner": "weiqi-zhang",
+                    "repo": "AEON",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-21T10:34:46.955Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Drive2Gauss_",
+                  "description": "Drive2Gauss: FeedForward 4D Gaussian Reconstruction from Multimodal Generative Driving Videos arXiv 2026",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1390838596,
+                    "language": "Python",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-10-14T02:57:58Z",
+                    "open_issues": 1,
+                    "owner": "zttt04",
+                    "repo": "Drive2Gauss_",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-21T10:34:46.955Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Holo4D",
+                  "description": "Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion NeurIPS 2026 (accepted)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1424219584,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-20T13:55:34Z",
+                    "open_issues": 0,
+                    "owner": "NIRVANALAN",
+                    "repo": "Holo4D",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-21T10:34:46.955Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Repo (release pending)",
+                  "description": "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation arXiv 2026  Repo (release pending)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "TriFold",
+                    "homepage": "https://fantasy-amap.github.io/TriFold/",
+                    "id": 1416682225,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-10-21T03:32:15Z",
+                    "open_issues": 1,
+                    "owner": "Fantasy-AMAP",
+                    "repo": "TriFold",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-21T10:34:46.955Z"
+                },
                 {
                   "node_type": "item",
                   "title": "Repo (WIP)",
@@ -1638,7 +1814,7 @@
                     "open_issues": 1,
                     "owner": "yitongx",
                     "repo": "Gen4P",
-                    "stars": 26,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1680,7 +1856,7 @@
                     "open_issues": 718,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24274,
+                    "stars": 24294,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1705,7 +1881,7 @@
                     "open_issues": 62,
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
-                    "stars": 1408,
+                    "stars": 1409,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1916,7 +2092,7 @@
                     "open_issues": 57,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1274,
+                    "stars": 1275,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2314,7 +2490,7 @@
                     "open_issues": 0,
                     "owner": "TencentARC",
                     "repo": "MotionCrafter",
-                    "stars": 188,
+                    "stars": 189,
                     "topics": [
                       "3d-reconstruction",
                       "4d-reconstruction",
@@ -2348,7 +2524,7 @@
                     "open_issues": 0,
                     "owner": "aigc3d",
                     "repo": "Glob3R",
-                    "stars": 266,
+                    "stars": 268,
                     "topics": []
                   },
                   "first_seen": "2026-10-20T10:24:33.408Z"
@@ -2762,7 +2938,7 @@
                 "open_issues": 6,
                 "owner": "zuosc19",
                 "repo": "GaussianWorld",
-                "stars": 180,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3339,7 +3515,7 @@
                 "open_issues": 1,
                 "owner": "PRBonn",
                 "repo": "LiDiff",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3987,6 +4163,27 @@
                 ]
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LaGen",
+              "description": "LaGen: Towards Autoregressive LiDAR Scene Generation ECCV 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2026] Official code of  paper \"LaGen: Towards Autoregressive LiDAR Scene Generation\"",
+                "homepage": null,
+                "id": 1281430470,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-24T03:09:17Z",
+                "open_issues": 3,
+                "owner": "szzhou88",
+                "repo": "LaGen",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-10-21T10:34:46.955Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -4182,7 +4379,7 @@
                 "open_issues": 2,
                 "owner": "worldbench",
                 "repo": "VITAL",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "automative",
                   "autonomous-driving",
@@ -4211,6 +4408,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "VPM",
+              "description": "Learning the 4D World through Point Trajectory ForecastingObservation + instruction conditioning; joint video/point forecasting and an action-generation extension. arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of Video-Point Model (VPM)",
+                "homepage": "https://rootyjeon.github.io/video-point-model/",
+                "id": 1414691668,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-21T06:54:03Z",
+                "open_issues": 1,
+                "owner": "rootyJeon",
+                "repo": "VPM",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-10-21T10:34:46.955Z"
+            },
+            {
+              "node_type": "item",
               "title": "UNITAS",
               "description": "UNITAS: A 3D-Native World Action Model for Embodied Manipulation arXiv 2026",
               "children": [],
@@ -4225,7 +4443,7 @@
                 "open_issues": 1,
                 "owner": "DexForce",
                 "repo": "UNITAS",
-                "stars": 88,
+                "stars": 94,
                 "topics": [
                   "robot-learning",
                   "robot-manipulation",
@@ -4330,6 +4548,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Repo (release pending)",
+              "description": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation arXiv 2026  Repo (release pending)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "InfiniDream: Open-Ended Photorealistic 3D Worlds through Procedural Generation",
+                "homepage": "https://yichuanh.github.io/infinidream-page/",
+                "id": 1420762391,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-20T04:38:31Z",
+                "open_issues": 1,
+                "owner": "yichuanH",
+                "repo": "InfiniDream",
+                "stars": 29,
+                "topics": []
+              },
+              "first_seen": "2026-10-21T10:34:46.955Z"
+            },
+            {
+              "node_type": "item",
               "title": "procthor",
               "description": "ProcTHOR: Large-Scale Embodied AI Using Procedural Generation NeurIPS 2022",
               "children": [],
@@ -4418,7 +4657,7 @@
                 "open_issues": 1,
                 "owner": "Aaron617",
                 "repo": "text2world",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4696,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T10:24:33.408Z",
+    "last_updated": "2026-10-21T10:34:46.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4704,7 +4943,7 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-20T00:25:53Z",
+      "last_commit": "2026-10-21T10:29:46Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
@@ -4724,7 +4963,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "80f017f75b5718161ec1bc49587767e336988ff1",
+    "original_repository_sha": "e9a051e2c730b8929bd473f357dd76e7128e94cb",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
