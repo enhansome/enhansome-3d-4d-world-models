@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "worldbench",
                 "repo": "WorldLens",
-                "stars": 256,
+                "stars": 257,
                 "topics": [
                   "3d",
                   "4d",
@@ -138,7 +138,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "Orbia",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "3d",
                   "3d-world-model",
@@ -258,7 +258,7 @@
                 "open_issues": 34,
                 "owner": "princeton-computational-imaging",
                 "repo": "SeeingThroughFog",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -840,7 +840,7 @@
                 "id": 1392572462,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T02:28:23Z",
+                "last_commit": "2026-10-24T07:13:16Z",
                 "open_issues": 0,
                 "owner": "yousiki",
                 "repo": "pawa-pipeline",
@@ -1298,11 +1298,11 @@
                 "id": 1394594424,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T10:06:51Z",
+                "last_commit": "2026-10-24T09:08:36Z",
                 "open_issues": 1,
                 "owner": "Zhangyr2022",
                 "repo": "StateWorldModel",
-                "stars": 14,
+                "stars": 16,
                 "topics": [
                   "world-models"
                 ]
@@ -1322,10 +1322,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-19T01:59:06Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "robbyant-research",
                 "repo": "PPMem",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -1388,7 +1388,7 @@
                 "open_issues": 4,
                 "owner": "TencentARC",
                 "repo": "WorldCrafter",
-                "stars": 533,
+                "stars": 536,
                 "topics": [
                   "video-generation",
                   "world-models"
@@ -1564,7 +1564,7 @@
                 "open_issues": 4,
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "3d",
                   "generative-ai",
@@ -1674,7 +1674,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-10T16:16:49Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
                 "stars": 550,
@@ -1772,7 +1772,7 @@
                     "open_issues": 0,
                     "owner": "NIRVANALAN",
                     "repo": "Holo4D",
-                    "stars": 11,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -1856,7 +1856,7 @@
                     "open_issues": 718,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24308,
+                    "stars": 24314,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1997,7 +1997,7 @@
                     "open_issues": 35,
                     "owner": "nnanhuang",
                     "repo": "S3Gaussian",
-                    "stars": 548,
+                    "stars": 549,
                     "topics": [
                       "3d",
                       "3dgs",
@@ -2071,7 +2071,7 @@
                     "open_issues": 1,
                     "owner": "EnVision-Research",
                     "repo": "DriveRecon",
-                    "stars": 194,
+                    "stars": 195,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2223,7 +2223,7 @@
                     "open_issues": 4,
                     "owner": "nv-tlabs",
                     "repo": "InfiniCube",
-                    "stars": 142,
+                    "stars": 143,
                     "topics": [
                       "3d",
                       "generative-ai",
@@ -2524,7 +2524,7 @@
                     "open_issues": 0,
                     "owner": "aigc3d",
                     "repo": "Glob3R",
-                    "stars": 270,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-10-20T10:24:33.408Z"
@@ -2668,7 +2668,7 @@
                 "open_issues": 4,
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "3d",
                   "generative-ai",
@@ -3309,7 +3309,7 @@
                 "open_issues": 4,
                 "owner": "nv-tlabs",
                 "repo": "InfiniCube",
-                "stars": 142,
+                "stars": 143,
                 "topics": [
                   "3d",
                   "generative-ai",
@@ -4180,7 +4180,7 @@
                 "open_issues": 3,
                 "owner": "szzhou88",
                 "repo": "LaGen",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4422,7 +4422,7 @@
                 "open_issues": 1,
                 "owner": "rootyJeon",
                 "repo": "VPM",
-                "stars": 30,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4556,13 +4556,13 @@
                 "description": "InfiniDream: Open-Ended Photorealistic 3D Worlds through Procedural Generation",
                 "homepage": "https://yichuanh.github.io/infinidream-page/",
                 "id": 1420762391,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-10-20T04:38:31Z",
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-10-23T18:27:51Z",
                 "open_issues": 1,
                 "owner": "yichuanH",
                 "repo": "InfiniDream",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4699,7 +4699,7 @@
                 "open_issues": 19,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 760,
+                "stars": 761,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4720,7 +4720,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2954,
+                "stars": 2955,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4935,7 +4935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:30:17.745Z",
+    "last_updated": "2026-10-24T09:47:04.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4947,7 +4947,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1013,
+      "stars": 1015,
       "topics": [
         "3d",
         "3d-generation",
