@@ -58,7 +58,7 @@
                 "open_issues": 74,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1831,
+                "stars": 1832,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -546,7 +546,7 @@
                 "license": "Apache-2.0",
                 "last_commit": "2025-02-06T17:36:52Z",
                 "open_issues": 4,
-                "owner": "fudan-zvg",
+                "owner": "LogosIntelligenceLab",
                 "repo": "WoVoGen",
                 "stars": 114,
                 "topics": []
@@ -1002,7 +1002,7 @@
                 "open_issues": 24,
                 "owner": "OpenDriveLab",
                 "repo": "Vista",
-                "stars": 908,
+                "stars": 909,
                 "topics": [
                   "autonomous-driving",
                   "video-generation",
@@ -1027,7 +1027,7 @@
                 "open_issues": 6,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "autonomous-driving",
                   "driving-world-model",
@@ -1367,7 +1367,7 @@
                 "open_issues": 3,
                 "owner": "cvlab-kaist",
                 "repo": "world-observer",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-10-11T11:35:54.572Z"
@@ -1388,7 +1388,7 @@
                 "open_issues": 4,
                 "owner": "TencentARC",
                 "repo": "WorldCrafter",
-                "stars": 536,
+                "stars": 538,
                 "topics": [
                   "video-generation",
                   "world-models"
@@ -1835,7 +1835,7 @@
                     "open_issues": 1,
                     "owner": "KosmoResearch",
                     "repo": "UniQuery4R",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-10-20T10:24:33.408Z"
@@ -1856,7 +1856,7 @@
                     "open_issues": 718,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24314,
+                    "stars": 24323,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -1902,7 +1902,7 @@
                     "open_issues": 4,
                     "owner": "tobiasfshr",
                     "repo": "map4d",
-                    "stars": 296,
+                    "stars": 297,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1997,7 +1997,7 @@
                     "open_issues": 35,
                     "owner": "nnanhuang",
                     "repo": "S3Gaussian",
-                    "stars": 549,
+                    "stars": 550,
                     "topics": [
                       "3d",
                       "3dgs",
@@ -2349,9 +2349,9 @@
                     "id": 982473742,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2025-06-03T03:15:32Z",
+                    "last_commit": "2026-10-24T14:36:16Z",
                     "open_issues": 4,
-                    "owner": "fudan-zvg",
+                    "owner": "LogosIntelligenceLab",
                     "repo": "RealEngine",
                     "stars": 49,
                     "topics": []
@@ -2524,7 +2524,7 @@
                     "open_issues": 0,
                     "owner": "aigc3d",
                     "repo": "Glob3R",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-10-20T10:24:33.408Z"
@@ -2603,7 +2603,7 @@
                 "license": "Apache-2.0",
                 "last_commit": "2025-02-06T17:36:52Z",
                 "open_issues": 4,
-                "owner": "fudan-zvg",
+                "owner": "LogosIntelligenceLab",
                 "repo": "WoVoGen",
                 "stars": 114,
                 "topics": []
@@ -4422,7 +4422,7 @@
                 "open_issues": 1,
                 "owner": "rootyJeon",
                 "repo": "VPM",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4471,7 +4471,7 @@
                 "open_issues": 16,
                 "owner": "vlmaps",
                 "repo": "vlmaps",
-                "stars": 730,
+                "stars": 731,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4562,7 +4562,7 @@
                 "open_issues": 1,
                 "owner": "yichuanH",
                 "repo": "InfiniDream",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4929,13 +4929,41 @@
           "description": null,
           "node_type": "group",
           "title": ":four: Digital Twins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome_medical_world_models",
+              "description": "Medical world models: representing medical states, modelling clinical dynamics and guiding intervention policies arXiv 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the paper collection for awesome medical_world_models.",
+                "homepage": null,
+                "id": 1124550510,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-12T02:41:20Z",
+                "open_issues": 1,
+                "owner": "1999kevin",
+                "repo": "awesome_medical_world_models",
+                "stars": 55,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T10:08:19.944Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":five: Other Topics"
         }
       ],
       "title": "5. Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:47:04.587Z",
+    "last_updated": "2026-10-25T10:08:19.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4943,11 +4971,11 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-21T10:29:46Z",
+      "last_commit": "2026-10-24T12:08:21Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1015,
+      "stars": 1016,
       "topics": [
         "3d",
         "3d-generation",
@@ -4963,7 +4991,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "e9a051e2c730b8929bd473f357dd76e7128e94cb",
+    "original_repository_sha": "9714b241f3e1d117ae71a1646899a942b2c71c40",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
