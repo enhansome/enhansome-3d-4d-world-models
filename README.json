@@ -88,7 +88,7 @@
                 "open_issues": 12,
                 "owner": "haoyi-duan",
                 "repo": "WorldScore",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -113,7 +113,7 @@
                 "open_issues": 12,
                 "owner": "haoyi-duan",
                 "repo": "WorldScore",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -328,7 +328,7 @@
                 "open_issues": 27,
                 "owner": "JeffWang987",
                 "repo": "OpenOccupancy",
-                "stars": 749,
+                "stars": 750,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -349,7 +349,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 808,
+                "stars": 809,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -380,7 +380,7 @@
                 "open_issues": 12,
                 "owner": "ai4ce",
                 "repo": "SSCBench",
-                "stars": 221,
+                "stars": 222,
                 "topics": [
                   "2d-to-3d",
                   "3d-perception",
@@ -473,7 +473,7 @@
                 "open_issues": 9,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1167,
+                "stars": 1168,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -657,7 +657,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -971,7 +971,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 808,
+                "stars": 809,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -1077,7 +1077,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1223,7 +1223,7 @@
                 "open_issues": 2,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 178,
+                "stars": 179,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -1302,7 +1302,7 @@
                 "open_issues": 1,
                 "owner": "Zhangyr2022",
                 "repo": "StateWorldModel",
-                "stars": 16,
+                "stars": 22,
                 "topics": [
                   "world-models"
                 ]
@@ -1367,7 +1367,7 @@
                 "open_issues": 3,
                 "owner": "cvlab-kaist",
                 "repo": "world-observer",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-10-11T11:35:54.572Z"
@@ -1384,7 +1384,7 @@
                 "id": 1369624742,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T10:46:46Z",
+                "last_commit": "2026-10-26T02:01:02Z",
                 "open_issues": 4,
                 "owner": "TencentARC",
                 "repo": "WorldCrafter",
@@ -1716,6 +1716,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "PixGR",
+                  "description": "PixGR: Pixel-Space Generative Decoding for Fast Feed-Forward 3D Reconstruction arXiv 2026  Code pending",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official Implementation of PixGR: Pixel-Space Generative Decoding for Fast Feed-Forward 3D Reconstruction",
+                    "homepage": "https://ranrhuang.github.io/pixgr/",
+                    "id": 1428865945,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-10-26T01:42:57Z",
+                    "open_issues": 2,
+                    "owner": "ranrhuang",
+                    "repo": "PixGR",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-26T11:32:10.489Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "AEON",
                   "description": "AEON: Unifying Video and 3D World Models NeurIPS 2026 (accepted)",
                   "children": [],
@@ -1730,7 +1751,7 @@
                     "open_issues": 0,
                     "owner": "weiqi-zhang",
                     "repo": "AEON",
-                    "stars": 19,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -1751,7 +1772,7 @@
                     "open_issues": 1,
                     "owner": "zttt04",
                     "repo": "Drive2Gauss_",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -1772,7 +1793,7 @@
                     "open_issues": 0,
                     "owner": "NIRVANALAN",
                     "repo": "Holo4D",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -1793,7 +1814,7 @@
                     "open_issues": 1,
                     "owner": "Fantasy-AMAP",
                     "repo": "TriFold",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -1814,7 +1835,7 @@
                     "open_issues": 1,
                     "owner": "yitongx",
                     "repo": "Gen4P",
-                    "stars": 32,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1853,10 +1874,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-10-17T14:28:15Z",
-                    "open_issues": 718,
+                    "open_issues": 717,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24323,
+                    "stars": 24335,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -2490,7 +2511,7 @@
                     "open_issues": 0,
                     "owner": "TencentARC",
                     "repo": "MotionCrafter",
-                    "stars": 189,
+                    "stars": 190,
                     "topics": [
                       "3d-reconstruction",
                       "4d-reconstruction",
@@ -2515,7 +2536,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "[Nips2026] Official Repo of \"Glob3R: Global Structure-from-Motion with 3D Foundation Models\"",
+                    "description": "[NeuIPS 2026] Official Repo of \"Glob3R: Global Structure-from-Motion with 3D Foundation Models\"",
                     "homepage": null,
                     "id": 1303487000,
                     "language": "Python",
@@ -2847,7 +2868,7 @@
                 "open_issues": 13,
                 "owner": "haomo-ai",
                 "repo": "Cam4DOcc",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "3d-occupancy",
                   "3d-occupancy-prediction",
@@ -3691,7 +3712,7 @@
                 "open_issues": 4,
                 "owner": "yichen928",
                 "repo": "X-Drive",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3931,7 +3952,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -4120,7 +4141,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -4408,6 +4429,69 @@
           "children": [
             {
               "node_type": "item",
+              "title": "DynaSlots-Anonymous",
+              "description": "DynaSlots: Slot-Centric 3D Dynamics Pretraining for Robot Manipulation arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1369344391,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-17T06:50:47Z",
+                "open_issues": 1,
+                "owner": "zhucezhanghao12345-source",
+                "repo": "DynaSlots-Anonymous",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T11:32:10.489Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DeXplicit",
+              "description": "DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DeXplicit: explicit 3D dynamics, training, and forecast-conditioned video generation",
+                "homepage": null,
+                "id": 1415241682,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-23T07:43:00Z",
+                "open_issues": 0,
+                "owner": "Abecid",
+                "repo": "DeXplicit",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T11:32:10.489Z"
+            },
+            {
+              "node_type": "item",
+              "title": "physical-world-release",
+              "description": "PhysiCalWorld: In-Context Physics Calibration for World Models arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[Code Release] PhysiCalWorld: In-Context Physics Calibration for World Models",
+                "homepage": null,
+                "id": 1429180329,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-22T16:48:25Z",
+                "open_issues": 0,
+                "owner": "physical-world",
+                "repo": "physical-world-release",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T11:32:10.489Z"
+            },
+            {
+              "node_type": "item",
               "title": "VPM",
               "description": "Learning the 4D World through Point Trajectory ForecastingObservation + instruction conditioning; joint video/point forecasting and an action-generation extension. arXiv 2026",
               "children": [],
@@ -4422,7 +4506,7 @@
                 "open_issues": 1,
                 "owner": "rootyJeon",
                 "repo": "VPM",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4443,7 +4527,7 @@
                 "open_issues": 1,
                 "owner": "DexForce",
                 "repo": "UNITAS",
-                "stars": 100,
+                "stars": 101,
                 "topics": [
                   "robot-learning",
                   "robot-manipulation",
@@ -4562,7 +4646,7 @@
                 "open_issues": 1,
                 "owner": "yichuanH",
                 "repo": "InfiniDream",
-                "stars": 39,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4699,7 +4783,7 @@
                 "open_issues": 19,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 761,
+                "stars": 762,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4720,7 +4804,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2955,
+                "stars": 2957,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -4960,10 +5044,79 @@
         }
       ],
       "title": "5. Applications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenWorldLib",
+              "description": "A unified codebase for world models, providing a standardized pipeline interface over existing open-source models (Matrix-Game-2, Hunyuan-GameCraft, FlashWorld, Cosmos-Predict-2.5, and others) across video generation, 3D scene generation, and reasoning. Apache-2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Unified Codebase for Advanced World Models.",
+                "homepage": null,
+                "id": 1101358021,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-20T15:10:06Z",
+                "open_issues": 6,
+                "owner": "OpenDCAI",
+                "repo": "OpenWorldLib",
+                "stars": 887,
+                "topics": [
+                  "3d-scene-generation",
+                  "awesome-world-model",
+                  "diffusion-models",
+                  "gaussian-splatting",
+                  "hunyuan-world",
+                  "lingbot-world",
+                  "simulator",
+                  "vggt",
+                  "video-editing",
+                  "vla",
+                  "vlm",
+                  "world-model",
+                  "world-models"
+                ]
+              },
+              "first_seen": "2026-10-26T11:32:10.489Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CADRE",
+              "description": "causal diffusion representation autoencoders for interactive video world models, with selectable spatial/temporal compression and shared diffusion decoding. [Paper] [Project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CADRE: causal video autoencoders and real-time interactive world models. Code for \"Rethinking Video Autoencoders for Interactive World Models\".",
+                "homepage": null,
+                "id": 1395231045,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-20T22:38:26Z",
+                "open_issues": 0,
+                "owner": "kyutai-labs",
+                "repo": "cadre-autoencoders-and-world-models",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T11:32:10.489Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Codebases & Toolkits"
+        }
+      ],
+      "title": "6. Other Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T10:08:19.944Z",
+    "last_updated": "2026-10-26T11:32:10.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -4971,11 +5124,11 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-24T12:08:21Z",
+      "last_commit": "2026-10-26T02:48:36Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1016,
+      "stars": 1017,
       "topics": [
         "3d",
         "3d-generation",
@@ -4991,7 +5144,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "9714b241f3e1d117ae71a1646899a942b2c71c40",
+    "original_repository_sha": "43aaebce604f17e9a5a49dd804718dd37ed4b16d",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
