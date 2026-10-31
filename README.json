@@ -138,7 +138,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "Orbia",
-                "stars": 60,
+                "stars": 62,
                 "topics": [
                   "3d",
                   "3d-world-model",
@@ -473,7 +473,7 @@
                 "open_issues": 9,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1168,
+                "stars": 1169,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -1247,7 +1247,7 @@
                 "open_issues": 2,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -1335,7 +1335,7 @@
                 "open_issues": 9,
                 "owner": "facebookresearch",
                 "repo": "Flow-World-Models",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-10-27T10:58:50.302Z"
@@ -1433,7 +1433,7 @@
                 "open_issues": 2,
                 "owner": "Hongchang-Liu",
                 "repo": "GeoState",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1499,7 +1499,7 @@
                 "open_issues": 0,
                 "owner": "Li00147",
                 "repo": "SPVC",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1803,6 +1803,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "sonoworld4d",
+                  "description": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion SynchronizationMonocular-video 4D Gaussian reconstruction with synchronized spatial audio arXiv 2026  Code pending",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Project page for \"SonoWorld4D: Generating a 4D Audio-Visual Scene from One Video via Diffusion Synchronization\"",
+                    "homepage": null,
+                    "id": 1427593542,
+                    "language": "HTML",
+                    "license": null,
+                    "last_commit": "2026-10-30T20:10:19Z",
+                    "open_issues": 0,
+                    "owner": "HuMathe",
+                    "repo": "sonoworld4d",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-31T11:13:50.462Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "FL4N",
                   "description": "FL4N: Feed-forward Latent Model for 4D Novel View SynthesisReconstructive latent NVS within the observed time range arXiv 2026",
                   "children": [],
@@ -1817,7 +1838,7 @@
                     "open_issues": 0,
                     "owner": "cvlab-kaist",
                     "repo": "FL4N",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T11:38:28.590Z"
@@ -1901,7 +1922,7 @@
                     "open_issues": 0,
                     "owner": "NIRVANALAN",
                     "repo": "Holo4D",
-                    "stars": 17,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -1982,10 +2003,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2025-10-17T14:28:15Z",
-                    "open_issues": 718,
+                    "open_issues": 720,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24367,
+                    "stars": 24373,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -2221,7 +2242,7 @@
                     "open_issues": 57,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1279,
+                    "stars": 1280,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3046,7 +3067,7 @@
                 "open_issues": 5,
                 "owner": "wzzheng",
                 "repo": "GaussianAD",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4343,7 +4364,7 @@
                 "open_issues": 1,
                 "owner": "PolyU-VCLab",
                 "repo": "OSWAM",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-10-28T11:38:28.590Z"
@@ -4705,7 +4726,7 @@
                 "open_issues": 3,
                 "owner": "robotics-survey",
                 "repo": "Awesome-Robotics-Foundation-Models",
-                "stars": 1422,
+                "stars": 1423,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -5018,7 +5039,7 @@
                 "open_issues": 4,
                 "owner": "JiahaoPlus",
                 "repo": "EvoWorld",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "3d-reconstruction",
                   "computer-vision",
@@ -5266,7 +5287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:37:25.250Z",
+    "last_updated": "2026-10-31T11:13:50.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -5274,7 +5295,7 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-28T04:42:51Z",
+      "last_commit": "2026-10-31T10:47:18Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
@@ -5294,7 +5315,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "687c71353c126424d299b002fda904f07cf40b8c",
+    "original_repository_sha": "17a2bb8fa55ce99e25f19d896091f46acb4724e2",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
