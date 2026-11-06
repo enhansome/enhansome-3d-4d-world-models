@@ -58,7 +58,7 @@
                 "open_issues": 74,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1839,
+                "stars": 1840,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -138,7 +138,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "Orbia",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "3d",
                   "3d-world-model",
@@ -201,7 +201,7 @@
                 "open_issues": 0,
                 "owner": "fengyi233",
                 "repo": "PanoBench",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -414,7 +414,7 @@
                 "open_issues": 51,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1140,
+                "stars": 1143,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -746,7 +746,7 @@
                 "open_issues": 20,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 621,
+                "stars": 622,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1202,7 +1202,7 @@
                 "open_issues": 3,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 62,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-09-24T10:30:35.143Z"
@@ -1433,7 +1433,7 @@
                 "open_issues": 2,
                 "owner": "Hongchang-Liu",
                 "repo": "GeoState",
-                "stars": 18,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1471,11 +1471,11 @@
                 "id": 1369624742,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T09:50:13Z",
+                "last_commit": "2026-11-06T11:31:11Z",
                 "open_issues": 4,
                 "owner": "TencentARC",
                 "repo": "WorldCrafter",
-                "stars": 554,
+                "stars": 556,
                 "topics": [
                   "video-generation",
                   "world-models"
@@ -1546,7 +1546,7 @@
                 "open_issues": 24,
                 "owner": "PJLab-ADG",
                 "repo": "DriveArena",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1567,7 +1567,7 @@
                 "open_issues": 9,
                 "owner": "wzzheng",
                 "repo": "Doe",
-                "stars": 113,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1630,7 +1630,7 @@
                 "open_issues": 24,
                 "owner": "PJLab-ADG",
                 "repo": "DriveArena",
-                "stars": 471,
+                "stars": 472,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1834,7 +1834,7 @@
                     "id": 1430572685,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-27T04:09:24Z",
+                    "last_commit": "2026-11-06T08:41:46Z",
                     "open_issues": 0,
                     "owner": "cvlab-kaist",
                     "repo": "FL4N",
@@ -1901,7 +1901,7 @@
                     "open_issues": 1,
                     "owner": "zttt04",
                     "repo": "Drive2Gauss_",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -1922,7 +1922,7 @@
                     "open_issues": 1,
                     "owner": "NIRVANALAN",
                     "repo": "Holo4D",
-                    "stars": 31,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -1961,10 +1961,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-10-16T10:10:05Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "yitongx",
                     "repo": "Gen4P",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": []
                   },
                   "first_seen": "2026-10-17T09:39:59.233Z"
@@ -1985,7 +1985,7 @@
                     "open_issues": 1,
                     "owner": "KosmoResearch",
                     "repo": "UniQuery4R",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-10-20T10:24:33.408Z"
@@ -2006,7 +2006,7 @@
                     "open_issues": 720,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24419,
+                    "stars": 24424,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -2031,7 +2031,7 @@
                     "open_issues": 62,
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
-                    "stars": 1410,
+                    "stars": 1412,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2073,7 +2073,7 @@
                     "open_issues": 16,
                     "owner": "nv-tlabs",
                     "repo": "SCube",
-                    "stars": 528,
+                    "stars": 529,
                     "topics": [
                       "3d-reconstruction",
                       "diffusion-models",
@@ -2419,7 +2419,7 @@
                     "open_issues": 3,
                     "owner": "heiheishuang",
                     "repo": "MuDG",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2545,7 +2545,7 @@
                     "open_issues": 51,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1140,
+                    "stars": 1143,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -2570,7 +2570,7 @@
                     "open_issues": 2,
                     "owner": "paulpanwang",
                     "repo": "Diff4Splat",
-                    "stars": 129,
+                    "stars": 130,
                     "topics": [
                       "3d",
                       "3d-generation",
@@ -2598,7 +2598,7 @@
                     "open_issues": 2,
                     "owner": "ZheningHuang",
                     "repo": "SpaceTimePilot",
-                    "stars": 129,
+                    "stars": 130,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2640,7 +2640,7 @@
                     "open_issues": 0,
                     "owner": "TencentARC",
                     "repo": "MotionCrafter",
-                    "stars": 191,
+                    "stars": 192,
                     "topics": [
                       "3d-reconstruction",
                       "4d-reconstruction",
@@ -2674,7 +2674,7 @@
                     "open_issues": 0,
                     "owner": "aigc3d",
                     "repo": "Glob3R",
-                    "stars": 277,
+                    "stars": 278,
                     "topics": []
                   },
                   "first_seen": "2026-10-20T10:24:33.408Z"
@@ -2797,7 +2797,7 @@
                 "open_issues": 20,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 621,
+                "stars": 622,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3413,7 +3413,7 @@
                 "open_issues": 2,
                 "owner": "3DTopia",
                 "repo": "DynamicCity",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "4d-generation",
                   "autonomous-driving",
@@ -3615,7 +3615,7 @@
                 "open_issues": 2,
                 "owner": "kazuto1011",
                 "repo": "r2dm",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "diffusion-models",
                   "lidar"
@@ -4006,7 +4006,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "SPIRAL",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "3d",
                   "3d-gen",
@@ -4677,7 +4677,7 @@
                 "open_issues": 1,
                 "owner": "DexForce",
                 "repo": "UNITAS",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "robot-learning",
                   "robot-manipulation",
@@ -4838,7 +4838,7 @@
                 "open_issues": 48,
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 482,
+                "stars": 483,
                 "topics": [
                   "ai2-thor",
                   "computer-vision",
@@ -4954,7 +4954,7 @@
                 "open_issues": 19,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 765,
+                "stars": 767,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -5102,7 +5102,7 @@
                 "open_issues": 2,
                 "owner": "3DTopia",
                 "repo": "DynamicCity",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "4d-generation",
                   "autonomous-driving",
@@ -5127,7 +5127,7 @@
                 "open_issues": 7,
                 "owner": "Linxius",
                 "repo": "UrbanScene3D",
-                "stars": 156,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -5203,7 +5203,7 @@
                 "open_issues": 1,
                 "owner": "1999kevin",
                 "repo": "awesome_medical_world_models",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-10-25T10:08:19.944Z"
@@ -5237,7 +5237,7 @@
                 "open_issues": 6,
                 "owner": "OpenDCAI",
                 "repo": "OpenWorldLib",
-                "stars": 888,
+                "stars": 889,
                 "topics": [
                   "3d-scene-generation",
                   "awesome-world-model",
@@ -5287,7 +5287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:29:03.593Z",
+    "last_updated": "2026-11-06T13:13:35.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -5299,7 +5299,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1026,
+      "stars": 1028,
       "topics": [
         "3d",
         "3d-generation",
