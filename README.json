@@ -58,7 +58,7 @@
                 "open_issues": 74,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1840,
+                "stars": 1841,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -895,7 +895,7 @@
                 "open_issues": 3,
                 "owner": "asdfo123",
                 "repo": "ForgeWM",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "action-conditioned",
                   "causal-forcing",
@@ -1454,7 +1454,7 @@
                 "open_issues": 3,
                 "owner": "cvlab-kaist",
                 "repo": "world-observer",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-10-11T11:35:54.572Z"
@@ -1922,7 +1922,7 @@
                     "open_issues": 1,
                     "owner": "NIRVANALAN",
                     "repo": "Holo4D",
-                    "stars": 37,
+                    "stars": 41,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -2006,7 +2006,7 @@
                     "open_issues": 720,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24424,
+                    "stars": 24430,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -3505,7 +3505,7 @@
                 "open_issues": 2,
                 "owner": "autonomousvision",
                 "repo": "pritti",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3778,7 +3778,7 @@
                 "open_issues": 9,
                 "owner": "zympsyche",
                 "repo": "BevWorld",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4195,7 +4195,7 @@
                 "open_issues": 9,
                 "owner": "zympsyche",
                 "repo": "BevWorld",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4656,7 +4656,7 @@
                 "open_issues": 1,
                 "owner": "rootyJeon",
                 "repo": "VPM",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4677,7 +4677,7 @@
                 "open_issues": 1,
                 "owner": "DexForce",
                 "repo": "UNITAS",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "robot-learning",
                   "robot-manipulation",
@@ -4838,7 +4838,7 @@
                 "open_issues": 48,
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 483,
+                "stars": 484,
                 "topics": [
                   "ai2-thor",
                   "computer-vision",
@@ -4954,7 +4954,7 @@
                 "open_issues": 19,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan-GameCraft-1.0",
-                "stars": 767,
+                "stars": 766,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4975,7 +4975,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2961,
+                "stars": 2962,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -5287,7 +5287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T13:13:35.524Z",
+    "last_updated": "2026-11-07T11:55:05.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -5299,7 +5299,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1028,
+      "stars": 1029,
       "topics": [
         "3d",
         "3d-generation",
