@@ -58,7 +58,7 @@
                 "open_issues": 74,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1844,
+                "stars": 1845,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -473,7 +473,7 @@
                 "open_issues": 9,
                 "owner": "cure-lab",
                 "repo": "MagicDrive",
-                "stars": 1167,
+                "stars": 1168,
                 "topics": [
                   "autonomous-vehicles",
                   "deep-learning",
@@ -657,7 +657,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 426,
+                "stars": 427,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -746,7 +746,7 @@
                 "open_issues": 20,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 622,
+                "stars": 623,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -895,7 +895,7 @@
                 "open_issues": 3,
                 "owner": "asdfo123",
                 "repo": "ForgeWM",
-                "stars": 119,
+                "stars": 118,
                 "topics": [
                   "action-conditioned",
                   "causal-forcing",
@@ -1077,7 +1077,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 426,
+                "stars": 427,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1311,7 +1311,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-06T14:06:34Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "Sta8is",
                 "repo": "Re2Pix",
                 "stars": 19,
@@ -1335,7 +1335,7 @@
                 "open_issues": 9,
                 "owner": "facebookresearch",
                 "repo": "Flow-World-Models",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-10-27T10:58:50.302Z"
@@ -1817,7 +1817,7 @@
                     "open_issues": 0,
                     "owner": "HuMathe",
                     "repo": "sonoworld4d",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-10-31T11:13:50.462Z"
@@ -1838,7 +1838,7 @@
                     "open_issues": 0,
                     "owner": "cvlab-kaist",
                     "repo": "FL4N",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": []
                   },
                   "first_seen": "2026-10-28T11:38:28.590Z"
@@ -2006,7 +2006,7 @@
                     "open_issues": 721,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24446,
+                    "stars": 24450,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -2797,7 +2797,7 @@
                 "open_issues": 20,
                 "owner": "Arlo0o",
                 "repo": "UniScene-Unified-Occupancy-centric-Driving-Scene-Generation",
-                "stars": 622,
+                "stars": 623,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2934,7 +2934,7 @@
                 "open_issues": 7,
                 "owner": "tarashakhurana",
                 "repo": "4d-occ-forecasting",
-                "stars": 251,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2976,7 +2976,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 593,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3109,7 +3109,7 @@
                 "open_issues": 6,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4081,7 +4081,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 426,
+                "stars": 427,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -4270,7 +4270,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 426,
+                "stars": 427,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -4364,7 +4364,7 @@
                 "open_issues": 2,
                 "owner": "PolyU-VCLab",
                 "repo": "OSWAM",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-10-28T11:38:28.590Z"
@@ -5203,7 +5203,7 @@
                 "open_issues": 1,
                 "owner": "1999kevin",
                 "repo": "awesome_medical_world_models",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-10-25T10:08:19.944Z"
@@ -5287,7 +5287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T14:20:44.231Z",
+    "last_updated": "2026-11-10T13:45:47.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -5299,7 +5299,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
-      "stars": 1029,
+      "stars": 1030,
       "topics": [
         "3d",
         "3d-generation",
