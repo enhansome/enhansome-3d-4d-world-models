@@ -58,7 +58,7 @@
                 "open_issues": 75,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1844,
+                "stars": 1845,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -138,7 +138,7 @@
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "Orbia",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "3d",
                   "3d-world-model",
@@ -174,7 +174,7 @@
                 "open_issues": 1,
                 "owner": "HKU-MMLab",
                 "repo": "MIST",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "agentic",
                   "benchmark",
@@ -205,6 +205,27 @@
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WMEval: Evaluating Interactive World Models Grounded on Physical Simulations",
+              "description": "(arXiv 2026): matched action sequences compare video rollouts against Unity simulator states. [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1181199635,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-28T23:40:59Z",
+                "open_issues": 0,
+                "owner": "hao-ai-lab",
+                "repo": "WMEval",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-14T12:29:50.698Z"
             },
             {
               "node_type": "item",
@@ -950,7 +971,7 @@
                 "open_issues": 25,
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1272,7 +1293,7 @@
                 "open_issues": 2,
                 "owner": "gboduljak",
                 "repo": "vfmf",
-                "stars": 59,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-10-27T10:58:50.302Z"
@@ -2006,7 +2027,7 @@
                     "open_issues": 721,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24468,
+                    "stars": 24471,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -2242,7 +2263,7 @@
                     "open_issues": 57,
                     "owner": "ziyc",
                     "repo": "drivestudio",
-                    "stars": 1290,
+                    "stars": 1291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2899,6 +2920,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LO-World",
+              "description": "LO-World: Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR ForecastingJoint 4D semantic occupancy and LiDAR forecasting in shared BEV latents arXiv 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Unified BEV Latent Modeling for Joint 4D Occupancy and LiDAR Forecasting",
+                "homepage": null,
+                "id": 1447928916,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T07:59:04Z",
+                "open_issues": 0,
+                "owner": "lzzzzzm",
+                "repo": "LO-World",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-11-14T12:29:50.698Z"
+            },
+            {
+              "node_type": "item",
               "title": "emergent-occ-forecasting",
               "description": "Differentiable Raycasting for Self-supervised Occupancy Forecasting ECCV 2022 -",
               "children": [],
@@ -2976,7 +3018,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 596,
+                "stars": 597,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3046,7 +3088,7 @@
                 "open_issues": 5,
                 "owner": "gusongen",
                 "repo": "DOME",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3067,7 +3109,7 @@
                 "open_issues": 5,
                 "owner": "wzzheng",
                 "repo": "GaussianAD",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -3340,7 +3382,7 @@
                 "open_issues": 22,
                 "owner": "nv-tlabs",
                 "repo": "XCube",
-                "stars": 547,
+                "stars": 546,
                 "topics": [
                   "3d-generation",
                   "computer-vision",
@@ -4726,7 +4768,7 @@
                 "open_issues": 3,
                 "owner": "robotics-survey",
                 "repo": "Awesome-Robotics-Foundation-Models",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4780,6 +4822,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "PlayGen-2",
+              "description": "PlayGen2: Learning Real-Time Playable Worlds with Explicit 3D StateAction-conditioned updates to persistent occupancy and entity states with separate neural rendering in Doom arXiv 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1446776301,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-05T10:09:33Z",
+                "open_issues": 2,
+                "owner": "MajorDavidZhang",
+                "repo": "PlayGen-2",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-11-14T12:29:50.698Z"
+            },
             {
               "node_type": "item",
               "title": "Repo (release pending)",
@@ -5287,7 +5350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:25:35.623Z",
+    "last_updated": "2026-11-14T12:29:50.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
@@ -5295,7 +5358,7 @@
       "id": 1005844732,
       "language": "HTML",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-31T10:47:18Z",
+      "last_commit": "2026-11-14T00:53:21Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-3d-4d-world-models",
@@ -5315,7 +5378,7 @@
         "world-models"
       ]
     },
-    "original_repository_sha": "17a2bb8fa55ce99e25f19d896091f46acb4724e2",
+    "original_repository_sha": "a64dab6545e65f459783742fa6167c6a9286c351",
     "enhanced_repository": "enhansome/enhansome-3d-4d-world-models",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome 3D and 4D World Models with stars"
