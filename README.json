@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "worldbench",
                 "repo": "WorldLens",
-                "stars": 258,
+                "stars": 259,
                 "topics": [
                   "3d",
                   "4d",
@@ -398,7 +398,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-04-09T07:33:14Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "ai4ce",
                 "repo": "SSCBench",
                 "stars": 223,
@@ -1901,7 +1901,7 @@
                     "open_issues": 0,
                     "owner": "weiqi-zhang",
                     "repo": "AEON",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T10:34:46.955Z"
@@ -2027,7 +2027,7 @@
                     "open_issues": 721,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24471,
+                    "stars": 24477,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -2976,7 +2976,7 @@
                 "open_issues": 7,
                 "owner": "tarashakhurana",
                 "repo": "4d-occ-forecasting",
-                "stars": 250,
+                "stars": 251,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -4698,7 +4698,7 @@
                 "open_issues": 1,
                 "owner": "rootyJeon",
                 "repo": "VPM",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4747,7 +4747,7 @@
                 "open_issues": 16,
                 "owner": "vlmaps",
                 "repo": "vlmaps",
-                "stars": 732,
+                "stars": 733,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -5038,7 +5038,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2967,
+                "stars": 2969,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -5232,7 +5232,7 @@
                 "open_issues": 1,
                 "owner": "hzxie",
                 "repo": "GaussianCity",
-                "stars": 341,
+                "stars": 342,
                 "topics": [
                   "3d-aigc",
                   "3d-generation",
@@ -5266,7 +5266,7 @@
                 "open_issues": 1,
                 "owner": "1999kevin",
                 "repo": "awesome_medical_world_models",
-                "stars": 64,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-10-25T10:08:19.944Z"
@@ -5300,7 +5300,7 @@
                 "open_issues": 6,
                 "owner": "OpenDCAI",
                 "repo": "OpenWorldLib",
-                "stars": 889,
+                "stars": 890,
                 "topics": [
                   "3d-scene-generation",
                   "awesome-world-model",
@@ -5350,7 +5350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:29:50.698Z",
+    "last_updated": "2026-11-15T12:57:13.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
