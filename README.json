@@ -58,7 +58,7 @@
                 "open_issues": 75,
                 "owner": "Vchitect",
                 "repo": "VBench",
-                "stars": 1849,
+                "stars": 1851,
                 "topics": [
                   "aigc",
                   "benchmark",
@@ -432,10 +432,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-27T21:19:43Z",
-                "open_issues": 52,
+                "open_issues": 51,
                 "owner": "autonomousvision",
                 "repo": "navsim",
-                "stars": 1147,
+                "stars": 1149,
                 "topics": [
                   "autonomous-driving",
                   "planning",
@@ -678,7 +678,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -816,7 +816,7 @@
                 "open_issues": 24,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 830,
+                "stars": 829,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -1098,7 +1098,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1785,7 +1785,7 @@
                 "open_issues": 29,
                 "owner": "nv-tlabs",
                 "repo": "Cosmos-Drive-Dreams",
-                "stars": 558,
+                "stars": 559,
                 "topics": [
                   "autonomous-driving",
                   "generation",
@@ -2027,7 +2027,7 @@
                     "open_issues": 721,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24504,
+                    "stars": 24507,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -2052,7 +2052,7 @@
                     "open_issues": 62,
                     "owner": "zju3dv",
                     "repo": "street_gaussians",
-                    "stars": 1415,
+                    "stars": 1417,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:42:23.130Z"
@@ -2563,10 +2563,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-10-27T21:19:43Z",
-                    "open_issues": 52,
+                    "open_issues": 51,
                     "owner": "autonomousvision",
                     "repo": "navsim",
-                    "stars": 1147,
+                    "stars": 1149,
                     "topics": [
                       "autonomous-driving",
                       "planning",
@@ -3172,7 +3172,7 @@
                 "open_issues": 2,
                 "owner": "getterupper",
                 "repo": "PreWorld",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "autonomous-driving",
                   "occupancy-prediction"
@@ -3681,7 +3681,7 @@
                 "open_issues": 15,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 355,
+                "stars": 356,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -4123,7 +4123,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -4145,7 +4145,7 @@
                 "id": 1113716296,
                 "language": "Jupyter Notebook",
                 "license": null,
-                "last_commit": "2026-09-19T11:12:31Z",
+                "last_commit": "2026-11-18T19:21:00Z",
                 "open_issues": 1,
                 "owner": "tomerborreda",
                 "repo": "RadarGen",
@@ -4211,7 +4211,7 @@
                 "open_issues": 15,
                 "owner": "OpenDriveLab",
                 "repo": "ViDAR",
-                "stars": 355,
+                "stars": 356,
                 "topics": [
                   "autonomous-driving",
                   "point-cloud-forecasting",
@@ -4312,7 +4312,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -4698,7 +4698,7 @@
                 "open_issues": 1,
                 "owner": "rootyJeon",
                 "repo": "VPM",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-10-21T10:34:46.955Z"
@@ -4747,7 +4747,7 @@
                 "open_issues": 16,
                 "owner": "vlmaps",
                 "repo": "vlmaps",
-                "stars": 735,
+                "stars": 736,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -5038,7 +5038,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2977,
+                "stars": 2978,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -5266,7 +5266,7 @@
                 "open_issues": 1,
                 "owner": "1999kevin",
                 "repo": "awesome_medical_world_models",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-10-25T10:08:19.944Z"
@@ -5350,7 +5350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:32:58.052Z",
+    "last_updated": "2026-11-19T14:40:55.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
