@@ -134,7 +134,7 @@
                 "id": 1410385445,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T14:24:09Z",
+                "last_commit": "2026-11-20T15:17:48Z",
                 "open_issues": 0,
                 "owner": "worldbench",
                 "repo": "Orbia",
@@ -370,7 +370,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 810,
+                "stars": 811,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -678,7 +678,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -816,7 +816,7 @@
                 "open_issues": 24,
                 "owner": "nvidia-cosmos",
                 "repo": "cosmos-transfer1",
-                "stars": 829,
+                "stars": 830,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:23.130Z"
@@ -992,7 +992,7 @@
                 "open_issues": 14,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 810,
+                "stars": 811,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -1098,7 +1098,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1293,7 +1293,7 @@
                 "open_issues": 2,
                 "owner": "gboduljak",
                 "repo": "vfmf",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-10-27T10:58:50.302Z"
@@ -2027,7 +2027,7 @@
                     "open_issues": 721,
                     "owner": "graphdeco-inria",
                     "repo": "gaussian-splatting",
-                    "stars": 24515,
+                    "stars": 24517,
                     "topics": [
                       "computer-graphics",
                       "computer-vision",
@@ -4123,7 +4123,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -4312,7 +4312,7 @@
                 "open_issues": 39,
                 "owner": "SenseTime-FVG",
                 "repo": "OpenDWM",
-                "stars": 429,
+                "stars": 430,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -4901,7 +4901,7 @@
                 "open_issues": 48,
                 "owner": "allenai",
                 "repo": "procthor",
-                "stars": 486,
+                "stars": 487,
                 "topics": [
                   "ai2-thor",
                   "computer-vision",
@@ -5038,7 +5038,7 @@
                 "open_issues": 36,
                 "owner": "Tencent-Hunyuan",
                 "repo": "HunyuanWorld-1.0",
-                "stars": 2980,
+                "stars": 2982,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -5266,7 +5266,7 @@
                 "open_issues": 1,
                 "owner": "1999kevin",
                 "repo": "awesome_medical_world_models",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-10-25T10:08:19.944Z"
@@ -5350,7 +5350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T14:21:11.906Z",
+    "last_updated": "2026-11-21T13:42:08.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TPAMI 2026] 3D and 4D World Modeling: A Survey",
